@@ -1,0 +1,2258 @@
+'t	| cake:1  damp:1  mother:1  
+=	| ]:3  [:2  tinker:2  
+[	| ]:52  peter:10  wendy:6  
+]	| [:52  peter:12  wendy:7  
+a-pirating	| dreadful:1  shot:1  lot:1  
+a-trembling	| lady:1  tootles:1  
+aboard	| tail:1  captain:1  likeness:1  
+absence	| things:1  island:1  peter:1  
+accident	| edge:1  hair:1  lagoon:1  
+account	| ground:1  hour:1  men:1  
+accounts	| afterwards:1  scouts:1  carnage:1  
+accurst	| pirates:1  cookson:1  sign:1  
+accustomed	| voice:1  bell:1  tinker:1  
+act	| boat:1  ahoy:1  lagoon:1  
+action	| course:1  mind:1  nothing:1  
+actors	| spectators:1  
+address	| peter:2  hearties:1  face:1  
+admiration	| nature:1  agreement:1  cry:1  
+admits	| something:1  
+adults	| faint:1  word:1  flush:1  
+advance	| mr.:2  bare:1  gao:1  
+advantage	| bell:1  mothers:1  skeleton:1  
+adventure	| upshot:2  john:2  adventures:2  
+adventures	| night:3  children:2  course:2  
+affair	| redskins:1  peter:1  peculiarities:1  
+affright	| agitation:1  candour:1  hitherto:1  
+afterwards	| hook:2  night:2  hand:2  
+age	| i:2  wendy:1  lady:1  
+aghast	| kiss:1  wendy:1  chamber:1  
+agitation	| affright:1  candour:1  hitherto:1  
+agreement	| bird:1  admiration:1  peter:1  
+ah	| lady:2  fire:2  peter:2  
+ahoy	| boat:2  voice:2  act:1  
+aid	| surprise:1  nights:1  crocodile:1  
+air	| peter:7  michael:4  tick:3  
+airing	| birds:1  shape:1  youngsters:1  
+alas	| peter:2  secret:1  agreement:1  
+alertness	| senses:1  island:1  marvel:1  
+alf	| mullins:1  mason:1  
+ally	| peter:1  lily:1  life:1  
+aloof	| elation:1  heart:1  dark:1  
+altar	| ]:2  [:2  woods:1  
+amazement	| hook:1  order:1  tom-tom:1  
+ambition	| hook:1  hours:1  darkest:1  
+amends	| wind:1  way:1  change:1  
+amount	| milk:1  children:1  nurse:1  
+anchor	| brimstone:1  din:1  gall:1  
+angela	| moira:2  darling:1  satisfaction:1  
+angle	| hat:1  cloak:1  person:1  
+anguish	| cry:1  
+animals	| land:1  water:1  human:1  
+ankles	| hands:1  fate:1  
+announcement	| church:1  [:1  peter:1  
+anon	| [:1  word:1  peter:1  
+answer	| peter:4  form:3  boy:3  
+answers	| course:1  thing:1  boy:1  
+anything	| peter:4  mother:3  night:2  
+apartment	| recess:1  wall:1  bell:1  
+aperture	| door:1  knocking:1  see:1  
+apiece	| boys:2  hook:1  tree:1  
+appeal	| tootles:1  
+appearance	| mrs.:1  bolder:1  letters:1  
+appearances	| wendy:1  peter:1  glee:1  
+applause	| clever:1  boys:1  
+approach	| birds:1  island:1  names:1  
+arch	| hook:1  interest:1  enemy:1  
+arm	| wendy:6  crocodile:3  [:3  
+armchair	| ]:1  time:1  questions:1  
+arms	| peter:6  cecco:3  boys:3  
+arrangement	| ship:1  something:1  tinker:1  
+arrangements	| peter:2  dread:1  forgetful:1  
+arrow	| peter:3  bow:2  ground:2  
+arrows	| children:1  night:1  friend:1  
+art	| pan:1  thou:1  
+articles	| custom:1  mother:1  day:1  
+artifice	| scouts:1  masters:1  utterance:1  
+asleep	| pampas:1  peter:1  knowing:1  
+ass	| tinker:1  bell:1  hiding:1  
+astonishing	| answer:1  
+astonishment	| thrust:2  brilliancy:1  weight:1  
+attack	| redskins:3  night:2  pirates:2  
+attempt	| peter:2  tying:2  children:2  
+attention	| man:2  world:1  opinion:1  
+attire	| round:2  mr.:1  middle:1  
+attitude	| moment:1  victory:1  tails:1  
+authority	| lot:1  fairies:1  babies:1  
+authors	| thing:1  i:1  way:1  
+autograph	| crowds:1  interviews:1  cab:1  
+avail	| element:1  hand:1  difficulties:1  
+avast	| policy:1  hook:1  exultation:1  
+avenger	| peter:2  cloak:1  answer:1  
+awaiting	| thursday:1  week:1  darling:1  
+awake	| peter:2  yawn:1  sprang:1  
+awe	| i:1  something:1  hand:1  
+awkward	| everything:1  pause:1  
+axes	| meantime:1  sound:1  everything:1  
+ay	| sir:4  children:3  name:2  
+azores	| captain:1  pan:1  ship:1  
+babes	| babies:2  ourselves:1  things:1  
+babies	| roses:3  door:3  peter:2  
+baby	| time:2  fairies:2  beginning:1  
+back	| song:2  ho:2  yo:2  
+back-yard	| up:1  father:1  passage:1  
+backs	| peter:1  bundle:1  sticks:1  
+backwards	| jukes:2  skylights:2  bill:2  
+bag	| skylights:2  bill:2  man:2  
+balance	| tootles:2  redskin:2  redskins:2  
+baldness	| justice:1  courage:1  matter:1  
+bales	| hand:2  trees:1  manner:1  
+ball	| rock:1  climb:1  
+balls	| adventures:1  grizzly:1  john:1  
+band	| pan:2  sort:1  brave:1  
+bandage	| round:1  michael:1  forehead:1  
+bandages	| things:1  bed:1  home:1  
+banks	| names:1  dusky:1  guadjo-mo:1  
+banns	| church:1  announcement:1  peter:1  
+bar	| tink:1  window:1  
+barbecue	| man:4  flint:3  thrust:2  
+bare	| advance:1  pieces:1  ears:1  
+bark	| peter:2  danger:2  nana:1  
+barking	| john:1  up:1  yard:1  
+barque	| bird:2  peter:1  [:1  
+barrel	| refuse:1  front:1  hook:1  
+barrels	| ropes:1  house:1  side:1  
+base	| hillock:1  hook:1  stream:1  
+basement	| room:1  fulsom:1  nurses:1  
+basket	| michael:1  baby:1  women:1  
+basketful	| stockings:1  heel:1  spinsters:1  
+baskets	| children:1  night:1  time:1  
+bath	| michael:2  john:2  pomp:1  
+bathroom	| look:1  nana:1  tink:1  
+battle	| peter:1  sword:1  barbecue:1  
+bay	| group:1  savage:1  hook:1  
+baying	| tongues:1  pursuers:1  
+beam	| pirate:2  light:1  kidd:1  
+beard	| i:4  wendy:2  mother:2  
+bears	| peter:1  baby:1  skins:1  
+beast	| redskins:1  place:1  crocodile:1  
+beasts	| redskins:5  boys:3  pirates:3  
+beat	| instrument:1  
+beating	| erect:1  rock:1  moment:1  
+beauty	| hook:2  syrup:1  sigh:1  
+bed	| wendy:12  peter:9  i:6  
+bed-chamber	| woman:1  boudoir:1  dressing:1  
+bed-clothes	| inch:1  woman:1  inches:1  
+bed-post	| i:6  neck:6  office:4  
+bed-posts	| nana:1  feet:1  night:1  
+bedchambers	| chapter:1  sound:1  mermaids:1  
+bedding	| way:1  firewood:1  john:1  
+bedroom	| eavesdropping:1  something:1  impudent:1  
+beds	| way:3  mr.:3  house:2  
+bedspreads	| queen:1  mab:1  season:1  
+bedtime	| days:1  home:1  neverland:1  
+beef	| spout:1  difficulty:1  evening:1  
+bees	| night:1  work:1  honey:1  
+beginning	| story:4  time:3  night:2  
+begirt	| wendy:1  cloudy:1  tree:1  
+begs	| neck:3  i:3  bed-post:2  
+behind	| stout:1  movement:1  shoulders:1  
+belay	| dreadful:1  shot:1  lot:1  
+belief	| evidence:1  idea:1  crocodile:1  
+bell	| tinker:30  peter:4  children:3  
+belle	| ]:2  [:2  woods:1  
+bells	| tinkle:2  jug:1  doors:1  
+belt	| thought:1  hook:1  knife:1  
+berries	| peter:1  neverland:1  fear:1  
+besides	| darling:1  shame:1  michael:1  
+bet	| mothers:1  children:1  advantage:1  
+betray	| course:1  wendy:1  peter:1  
+bidding	| time:1  dogs:1  hook:1  
+bill	| jukes:7  skylights:4  hook:3  
+bird	| peter:12  i:6  lagoon:5  
+bird-cage	| recess:1  wall:1  apartment:1  
+birds	| peter:6  way:5  bird:3  
+birth	| john:3  occasion:2  darling:1  
+birthday	| something:1  michael:1  shirts:1  
+bit	| mother:2  i:2  wendy:2  
+bite	| tink:1  wings:1  shoulder:1  
+bitterness	| remorse:1  kennel:1  children:1  
+blackbeard	| bo'sun:1  john:1  
+blade	| savage:1  wriggle:1  grass:1  
+blades	| hallo:1  i:1  michael:1  
+blame	| children:1  bones:1  
+blanch	| moment:1  starkey:1  hook:1  
+blanket	| night:1  shore:1  sound:1  
+blankets	| children:2  redskins:2  peter:2  
+blaze	| date:1  lines:1  school:1  
+blew	| dream:1  drop:1  window:1  
+blinds	| blow:1  windows:1  guard:1  
+bliss	| george:2  alas:1  share:1  
+blood	| colour:2  sight:2  ground:2  
+blow	| fists:1  windows:1  leaves:1  
+blubbering	| noodles:1  peter:1  fuss:1  
+blue	| eyes:1  forget-me-not:1  spots:1  
+bluff	| strident:1  words:1  note:1  
+bo'sun	| form:3  jukes:2  smee:2  
+board	| ship:4  brig:2  night:2  
+boast	| ship:2  watch:1  mile:1  
+boat	| wendy:3  john:3  starkey:2  
+bobs	| hammer:2  tongs:2  odds:1  
+bodies	| tomahawks:1  knives:1  paint:1  
+body	| nothing:3  deal:2  hand:2  
+bolder	| name:1  mrs.:1  appearance:1  
+bolt	| smee:1  clock:1  crocodile:1  
+bonds	| nothing:1  thing:1  way:1  
+bone	| house:1  
+bones	| yo:2  ho:2  prettiest:1  
+book	| chief:2  daughter:2  death:1  
+books	| mrs.:1  darling:1  babies:1  
+boon	| passionate:1  form:1  breast:1  
+bottle	| course:2  drops:2  water:2  
+bottom	| morning:1  naughtiness:1  prettier:1  
+boudoir	| woman:1  bed-chamber:1  [:1  
+bound	| wendy:1  pirate:1  weapons:1  
+bout	| dance:2  gay:1  fight:1  
+bow	| arrow:2  hands:1  
+bowl	| milk:5  nana:5  medicine:5  
+bows	| tootles:1  trees:1  
+box	| wendy:5  home:2  kiss:2  
+boxes	| east:1  corner:1  kiss:1  
+boy	| peter:6  window:5  girl:5  
+boylike	| wendy:2  appearances:1  voices:1  
+boys	| peter:21  wendy:11  pirates:10  
+bracelet	| wendy:1  arm:1  loan:1  
+braces	| day:2  map:2  pudding:1  
+braggart	| ]:1  sarcasm:1  i:1  
+braiding	| visits:1  mrs.:1  friends:1  
+brain	| hook:2  mother:2  face:1  
+brains	| night:2  coinage:1  friday:1  
+branch	| wood:1  sound:1  children:1  
+branches	| lapping:1  supper:1  michael:1  
+brats	| sleep:1  
+brave	| [:2  hook:2  ]:2  
+braver	| tea:2  john:1  adventure:1  
+braves	| peter:2  fate:1  nothing:1  
+bravest	| cecco:1  brave:1  captain:1  
+bread	| concern:1  peter:1  way:1  
+breadth	| peter:1  captain:1  height:1  
+breadwinner	| i:1  george:1  mrs.:1  
+break	| hook:2  voice:1  moment:1  
+breakfast	| hurry:1  
+breaking	| top:1  spirit:1  hole:1  
+breast	| way:1  tink:1  arrow:1  
+breath	| i:3  foot:1  speed:1  
+breathing	| sound:2  figure:1  clutches:1  
+breathless	| night:1  dangers:1  midst:1  
+breaths	| i:1  evening:1  everything:1  
+breeding	| diction:1  test:1  demeanour:1  
+breeze	| hat:1  gentle:1  omen:1  
+briefly	| peter:1  
+brig	| board:2  pirate:2  smee:1  
+brilliancy	| thrust:2  weight:1  hook:1  
+brim	| stave:1  youngsters:1  hat:1  
+brimstone	| gall:2  ]:1  face:1  
+bring	| world:1  
+brisket	| conviction:1  
+britannia	| rule:1  
+broke	| baby:1  time:1  thousand:1  
+brother	| jukes:2  skylights:2  bill:2  
+brothers	| wendy:3  island:2  card:1  
+brow	| questions:1  man:1  candle:1  
+brunette	| questions:2  mother:2  colour:1  
+brush	| redskins:2  affair:1  [:1  
+brushwood	| john:2  sand:1  flamingo:1  
+brussels	| mrs.:1  darling:1  babies:1  
+brute	| nursery:1  tie:1  taste:1  
+bubbles	| mermaids:1  rainbow:1  days:1  
+buccaneers	| i:1  stave:1  site:1  
+bucket	| dogs:1  way:1  dance:1  
+buckets	| days:1  practice:1  well:1  
+buckler	| boy:1  sprang:1  hook:1  
+buffer	| tootles:1  person:1  idea:1  
+build	| peter:1  houses:1  eaves:1  
+building	| boys:2  house:2  peter:1  
+bullies	| hook:1  i:1  cabin:1  
+bulwark	| shoulder:1  gesture:1  peter:1  
+bulwarks	| pirates:2  mist:1  drinking:1  
+bundle	| peter:1  sticks:1  stick:1  
+bunks	| pirates:1  deck:1  side:1  
+bus	| nana:1  feet:1  bed-posts:1  
+buses	| nana:1  feet:1  bed-posts:1  
+butter	| peter:1  bread:1  concern:1  
+button	| face:2  hand:1  kiss:1  
+cab	| mr.:3  way:2  home:2  
+cabin	| hook:6  peter:3  children:3  
+cage	| peter:1  man:1  lion:1  
+cake	| ship:1  teeth:1  sugar:1  
+calculating	| darling:2  edge:1  mr.:1  
+call	| sound:1  vent:1  imitation:1  
+calls	| chill:1  paleface:1  intimation:1  
+calm	| torture:1  home:1  hat:1  
+calmer	| bed:2  custom:1  sit:1  
+calmly	| peter:1  
+camp	| i:1  john:1  smoke:1  
+candle	| floor:1  marks:1  foot:1  
+candles	| ]:2  [:2  person:1  
+candour	| affright:1  agitation:1  hitherto:1  
+cannibal	| seas:1  immune:1  name:1  
+cap	| midget:1  skirt:1  maid:1  
+capital	| house:1  chimney:1  hat:1  
+captain	| hook:7  smee:6  peter:4  
+captains	| stories:1  rock:1  marooners':1  
+captives	| sufficient:1  hook:1  mercy:1  
+capture	| sentence:1  mouths:1  ribbons:1  
+card	| island:2  temperature:1  roads:1  
+cards	| pirates:1  bulwarks:1  mist:1  
+care	| step:1  man:1  children:1  
+career	| dress:1  stuarts:1  attire:1  
+carnage	| ground:1  direction:1  footmarks:1  
+carpet	| mirror:1  dealers:1  washstand:1  
+carrion	| peter:1  signal:1  
+case	| [:2  bird:2  footer:2  
+cast	| sinister:1  distinction:1  diction:1  
+cat	| yo:4  ho:4  plank:3  
+catastrophe	| thought:1  feelings:1  companion:1  
+catch	| fury:1  reach:1  
+caught	| side:2  wendy:1  feet:1  
+cauliflowers	| mrs.:1  darling:1  babies:1  
+causes	| dogs:1  lad:1  time:1  
+cave	| john:2  window:1  leg:1  
+caverns	| sufficient:1  hook:1  mercy:1  
+caves	| island:2  temperature:1  card:1  
+cecco	| arms:3  voice:2  cabin:2  
+ceiling	| look:3  peter:1  heads:1  
+centre	| tree:1  morning:1  room:1  
+cents	| father:2  nursery:1  jane:1  
+ceremonies	| boy:1  peter:1  manner:1  
+certainty	| patches:1  roar:1  beasts:1  
+chain	| face:2  neck:2  afterwards:1  
+chair	| john:4  sit:4  wendy:2  
+chairs	| day:1  table-cloth:1  [:1  
+challenge	| peter:1  defiance:1  arrow:1  
+chamber	| appearance:1  rest:1  house:1  
+chance	| smee:1  crocodile:1  course:1  
+chandelier	| tiddlywinks:1  look:1  thing:1  
+change	| wendy:2  peter:2  wind:1  
+chapter	| wendy:4  home:3  way:3  
+character	| man:2  neighbours:1  movement:1  
+characters	| essay:1  words:1  holidays:1  
+charges	| night:1  puddings:1  chain:1  
+chariot	| ease:1  men:1  drawn:1  
+charles	| dress:1  stuarts:1  attire:1  
+chart	| captain:1  ship:1  time:1  
+chas	| scourie:1  
+chatter	| tea:1  recriminations:1  board:1  
+cheek	| sight:1  temper:1  i:1  
+cheeky	| peter:1  way:1  boys:1  
+cheer	| cry:2  children:2  miscreants:1  
+cheers	| mouths:1  
+cheese-cakes	| twins:1  
+cheque-book	| i:6  mother:4  pound:2  
+chest	| drawers:4  peter:3  floor:1  
+chewing	| home:1  return:1  chapter:1  
+chief	| daughter:4  rock:2  face:2  
+chiefly	| hullo:1  wendy:1  nightgown:1  
+child	| i:7  pound:4  time:4  
+childhood	| mrs.:1  peter:1  pan:1  
+children	| peter:12  i:12  time:10  
+children's	| mrs.:1  heard:1  peter:1  
+chill	| hours:1  suspense:1  paleface:1  
+chimney	| house:3  peter:3  capital:1  
+chocolate	| day:2  map:2  pudding:1  
+choice	| hillock:1  hook:1  stream:1  
+chorus	| stout:1  others:1  pirates:1  
+christmas	| liza:1  suspicions:1  puddings:1  
+church	| delights:1  spires:1  way:1  
+cigar	| light:1  face:1  touch:1  
+cigar-holder	| hook:2  night:1  cabin:1  
+cigars	| mouth:2  name:1  contrivance:1  
+cinderella	| mother:1  favourite:1  pirates:1  
+circle	| boys:3  round:2  peter:2  
+circumstances	| baby:1  bears:1  house:1  
+city	| position:1  
+clad	| boy:1  skeleton:1  juices:1  
+clang	| arms:2  weapons:2  boys:1  
+clapping	| thing:1  lagoon:1  purpose:1  
+clash	| air:1  shrieks:1  moment:1  
+class	| i:5  boys:5  v.:5  
+claw	| iron:6  hook:4  part:2  
+claws	| i:2  belay:1  john:1  
+cleaning	| spring:7  peter:5  time:4  
+clever	| peter:1  mother:1  pirate:1  
+cleverness	| peter:2  qualities:1  air:1  
+climb	| rock:1  ball:1  
+cloak	| peter:2  hook:1  tree:1  
+clock	| crocodile:3  smee:2  moment:1  
+closes	| doors:1  bells:1  sand:1  
+clothes	| tree:4  measures:2  difference:2  
+cloud	| front:1  wendy:1  father:1  
+clouds	| food:1  things:1  hand:1  
+cloudy	| wendy:1  heaven:1  tree:1  
+club	| form:3  smee:1  bo'sun:1  
+clung	| moment:1  hook:1  terror:1  
+clutches	| kind:1  breathing:1  liza:1  
+coast	| peter:1  wheel:1  scum:1  
+cockiness	| peter:1  mouth:1  drooping:1  
+codfish	| voice:2  hook:1  spirit:1  
+coffee	| i:2  child:2  dot:2  
+coinage	| night:2  friday:1  till:1  
+cold	| ]:2  [:2  woods:1  
+collar	| skylights:1  lurches:1  pirates:1  
+colour	| mother:3  eyes:2  milk:2  
+colours	| pool:4  eyes:4  shape:2  
+combat	| accounts:1  grey:1  mind:1  
+come-down	| fifteen:1  night:1  shore:1  
+comforter	| i:2  beard:2  wendy:1  
+command	| person:2  hide:1  adventure:1  
+commands	| master:1  house:1  kennel:1  
+commonplace	| smee:2  whir:1  none:1  
+commotion	| mr.:2  way:1  night-lights:1  
+communication	| moment:1  way:1  dining-room:1  
+communings	| gentlemen:1  intensity:1  ruff:1  
+companion	| peter:2  wendy:1  upwards:1  
+companions	| delights:1  spires:1  time:1  
+compassion	| disturb:1  music:1  scene:1  
+complain	| nibs:2  meals:1  twins:1  
+complaints	| housewife:1  father:1  
+compliment	| way:1  moment:1  smee:1  
+compliments	| i:1  hook:1  
+conceit	| clever:1  cleverness:1  peter:1  
+concern	| peter:1  way:1  bread:1  
+condition	| care:1  fitting:1  wendy:1  
+confusion	| side:1  
+conjurers	| ribbons:1  mouths:1  sentence:1  
+conqueror	| chapter:1  house:1  body:1  
+consent	| glad:1  hers:1  cypher:1  
+consequence	| tree:2  drinking:1  water:1  
+contempt	| day:1  rhubarb:1  wendy:1  
+content	| form:1  crocodile:1  
+contents	| drawers:2  thing:1  earth:1  
+contest	| thing:1  tie:1  occasions:1  
+contrast	| piccaninnies:1  part:1  honour:1  
+contrivance	| dress:1  name:1  mouth:1  
+conversation	| invention:1  mother:1  tent:1  
+conveyance	| house:1  
+conviction	| smee:1  children:1  brisket:1  
+cooed	| home:1  water:1  head:1  
+cooking	| pot:2  i:1  watching:1  
+cookson	| jukes:2  hook:2  skylights:2  
+cool	| tie:1  fate:1  children:1  
+coracles	| shores:1  play:1  children:1  
+cords	| smee:1  
+corks	| night:1  attack:1  ground:1  
+corkscrew	| smee:6  johnny:3  names:2  
+corner	| mouth:3  peter:2  mocking:1  
+corners	| la:2  wendy:1  way:1  
+cost	| children:1  minutes:1  delight:1  
+cosy	| fears:1  fire:1  
+cough	| genius:1  thing:1  patience:1  
+count	| night:2  days:1  anything:1  
+countenance	| ]:3  [:3  nature:1  
+country	| earth:1  lines:1  things:1  
+courage	| man:2  warfare:1  round:1  
+courier	| course:1  tink:1  wendy:1  
+course	| peter:21  wendy:11  i:10  
+coverlet	| bed:1  turn:1  night:1  
+coyote	| sound:1  vent:1  scouts:1  
+coyotes	| cry:1  braves:1  
+cradle	| [:1  ]:1  michael:1  
+craft	| pirate:3  water:2  island:2  
+craftiness	| children:1  world:1  sounds:1  
+crash	| answer:1  request:1  air:1  
+creaking	| portals:1  tap-tap-tap:1  night:1  
+creature	| cry:1  pain:1  arms:1  
+creek	| pirate:2  light:1  kidd:1  
+creepy	| shadows:2  song:1  witting:1  
+crept	| look:2  darling:1  dogs:1  
+crew	| jukes:2  hook:2  skylights:2  
+cries	| time:2  lagoon:2  evening:1  
+crime	| peter:1  tink:1  
+crimes	| fifteen:1  night:1  shore:1  
+crocodile	| hook:6  sound:4  arm:3  
+crocodiles	| i:1  hook:1  smee:1  
+cross	| questions:1  number:1  crosses:1  
+crosses	| questions:1  cross:1  number:1  
+crow	| peter:5  wendy:3  jane:1  
+crowd	| drawers:2  home:1  floor:1  
+crowds	| cab:1  papers:1  girls:1  
+crowing	| i:2  wendy:2  pirates:1  
+cruel	| wendy:1  horror:1  sea:1  
+cry	| children:4  mother:3  cheer:2  
+crying	| i:2  jane:1  breath:1  
+cuckoo	| peter:1  clock:1  moment:1  
+culpa	| mea:2  
+cunning	| children:2  manner:1  hands:1  
+cup	| spout:1  difficulty:1  drops:1  
+curiosity	| hook:1  limbs:1  side:1  
+curls	| [:2  ]:2  john:1  
+curly	| person:2  one:1  command:1  
+curtain	| round:2  attire:1  house:1  
+curtains	| minutes:2  scoundrels:1  window:1  
+custard	| father:1  
+custody	| nana:1  moment:1  quiet:1  
+custom	| bed:2  children:1  things:1  
+customs	| days:1  manners:1  tilt:1  
+cut	| form:2  hook:1  man:1  
+cutlass	| corkscrew:2  smee:2  wound:1  
+cutlasses	| feelings:1  dogs:1  moment:1  
+cynicism	| impression:1  
+cypher	| glad:1  drawing-room:1  consent:1  
+daddy	| mummy:1  scene:1  veil:1  
+dagger	| hand:4  peter:3  finger:2  
+damming	| sleeve:1  face:1  trickle:1  
+damp	| cake:1  mother:1  't:1  
+dance	| partners:2  bout:2  fight:2  
+dancer	| peter:1  
+dances	| gay:1  trees:1  debonair:1  
+danger	| moment:2  bark:2  zone:1  
+dangers	| night:1  midst:1  boys:1  
+dare	| tink:1  medicine:1  
+dark	| threatening:2  ]:2  [:2  
+darker	| course:1  days:1  neverland:1  
+darkest	| hook:1  hours:1  ambition:1  
+darkness	| colours:2  eyes:2  light:2  
+darling	| mrs.:26  mr.:17  i:8  
+darling's	| mrs.:1  kiss:1  
+darlings	| children:2  time:1  homes:1  
+darning	| wendy:1  time:1  bed:1  
+dash	| visits:1  mrs.:1  michael:1  
+date	| lines:1  school:1  garments:1  
+dative	| day:2  map:2  pudding:1  
+daughter	| chief:4  margaret:3  rock:2  
+dawn	| laws:1  savage:1  warfare:1  
+day	| map:4  nothing:4  michael:2  
+day-nursery	| piano:1  window:1  nursery:1  
+days	| neverland:3  unhappiness:2  lagoon:2  
+dead	| night:1  wardrobe:1  top:1  
+deal	| body:2  minutes:2  neverlands:1  
+dealers	| mirror:1  chest:1  drawers:1  
+dear	| i:8  wendy:7  spinsters:3  
+dearest	| gift:1  humour:1  
+death	| chief:2  daughter:2  movement:1  
+debonair	| gay:1  trees:1  dances:1  
+deck	| hook:3  ]:2  man:2  
+deed	| tinker:1  forest:1  days:1  
+deeds	| time:2  words:1  lightning:1  
+defence	| peter:1  swordsman:1  ill:1  
+defensive	| man:2  boys:1  pairs:1  
+defiance	| peter:1  arrow:1  lions:1  
+dejection	| smee:1  voice:1  
+delawares	| strung:1  boys:1  pirates:1  
+delight	| care:1  wendy:1  condition:1  
+delights	| time:1  companions:1  spires:1  
+demeanour	| sinister:1  distinction:1  cast:1  
+dense	| liza:1  ]:1  phalanx:1  
+denying	| words:1  
+departure	| room:1  heartless:1  pipes:1  
+descendants	| twin:1  children:1  john:1  
+describe	| mother:6  laugh:6  dress:3  
+desert	| lesson:1  water:1  eggs:1  
+design	| sufficient:1  hook:1  mercy:1  
+desire	| hook:2  mother:1  time:1  
+desolate	| ship:1  characters:1  flight:1  
+despair	| alertness:1  marvel:1  peoples:1  
+despise	| i:1  her:1  things:1  
+destruction	| idea:1  meantime:1  hat:1  
+detail	| night:2  coinage:1  brains:1  
+diamonds	| hoard:1  pearls:1  gulls:1  
+dianas	| ]:2  [:2  woods:1  
+dice	| pirates:1  games:1  drinking:1  
+diction	| test:1  breeding:1  demeanour:1  
+dictionary	| book:1  island:1  specimen:1  
+dies	| neverland:1  time:1  peter:1  
+difference	| clothes:2  tree:2  peter:2  
+difficulties	| element:1  surprise:1  hand:1  
+difficulty	| i:1  evening:1  cup:1  
+dignity	| plank:3  yo:2  ho:2  
+dim	| shape:1  objects:1  difference:1  
+dimly	| light:1  obstacle:1  lamp:1  
+din	| anchor:1  
+dinghy	| starkey:1  mermaids:1  lily:1  
+dining-room	| moment:1  way:1  communication:1  
+dinners	| make-believe:1  
+direction	| friendship:1  victim:1  children:1  
+disappointment	| pirate:1  i:1  words:1  
+discipline	| dogs:1  way:1  dance:1  
+discoveries	| knees:1  contents:1  sight:1  
+discreet	| feelings:1  dogs:1  moment:1  
+disgrace	| brute:1  
+disguise	| fairy:1  friendship:1  victim:1  
+dispute	| rule:1  complain:1  meals:1  
+dissolution	| presentiment:1  [:1  ]:1  
+distance	| [:3  ]:3  hair:1  
+distances	| neverland:1  adventure:1  
+distinction	| sinister:1  cast:1  diction:1  
+distress	| body:2  time:1  darling:1  
+disturb	| compassion:1  performer:1  harpsichord:1  
+ditty	| plank:3  yo:2  ho:2  
+diversions	| nana:1  feet:1  bed-posts:1  
+dock	| dreadful:1  shot:1  lot:1  
+doctor	| please:1  peter:1  sir:1  
+doctors	| map:2  parts:1  mind:1  
+dog	| nurse:4  nana:3  milk:2  
+dogs	| hook:6  man:5  eyes:4  
+doodle-doo	| cecco:2  odds:1  voice:1  
+doom	| flight:1  seals:1  mouth:1  
+doomed	| hook:1  cookson:1  children:1  
+door	| i:5  babies:3  darling:2  
+doors	| door:1  caves:1  houses:1  
+dost	| course:2  spirit:1  to-night:1  
+dot	| i:4  child:4  pound:4  
+double-deckers	| nana:1  feet:1  bed-posts:1  
+doublet	| claw:1  countenance:1  iron:1  
+doubt	| children:2  shadow:1  medicine:1  
+dozen	| jukes:2  skylights:2  bill:2  
+drank	| amount:1  nana:1  milk:1  
+draught	| time:2  [:1  portion:1  
+drawer	| i:5  nursery:2  shadow:2  
+drawers	| chest:4  peter:4  kings:2  
+drawing-room	| wendy:2  la:2  manner:1  
+drawn	| house:2  prowl:1  night:1  
+dread	| peter:2  smee:1  crocodiles:1  
+dreadful	| song:1  yo:1  row:1  
+dream	| rent:1  window:1  nursery:1  
+dreams	| boys:2  mother:2  i:1  
+dreamt	| fear:1  holidays:1  something:1  
+dregs	| time:2  words:1  lightning:1  
+dress	| describe:3  laugh:2  ]:2  
+dressing	| ]:2  [:2  house:1  
+drift	| bird:1  
+drinking	| tree:2  others:2  consequence:1  
+drooping	| mouth:1  personification:1  arm:1  
+drop	| window:2  tape:1  nursery:1  
+drops	| bottle:2  water:2  shadow:1  
+drowsy	| love:1  pardon:1  round:1  
+drug	| hook:1  rings:1  person:1  
+drum	| erect:1  rock:1  moment:1  
+dusky	| names:1  guadjo-mo:1  children:1  
+dust	| peter:4  fairy:3  michael:1  
+duty	| things:1  hearties:1  life:1  
+dwelling	| meantime:1  sound:1  axes:1  
+eagle	| john:1  food:1  wendy:1  
+ear	| hand:2  eyes:1  island:1  
+ears	| pieces:2  island:1  ground:1  
+earth	| i:1  cheek:1  nurseries:1  
+ease	| men:1  drawn:1  chariot:1  
+east	| mind:1  mocking:1  mouth:1  
+eaves	| peter:1  houses:1  build:1  
+eavesdropping	| bedroom:1  something:1  impudent:1  
+ebb	| laws:1  savage:1  whites:1  
+echo	| peter:2  ruff:1  tick:1  
+echoed	| something:1  mullins:1  
+echoes	| island:2  reply:1  mountains:1  
+ecstasies	| children:1  joy:1  window:1  
+ecstasy	| wendy:1  crowing:1  jane:1  
+edge	| bed:2  darling:2  rock:1  
+eel	| starkey:1  legs:1  water:1  
+eerie	| moment:1  tink:1  light:1  
+effects	| dogs:1  lad:1  time:1  
+effort	| peter:2  future:2  rock:2  
+efforts	| piece:1  paper:1  bird:1  
+egg	| youth:1  peter:1  venture:1  
+eggs	| peter:4  bird:3  hat:2  
+eighteen	| i:2  child:2  pound:2  
+elation	| face:2  hook:1  deck:1  
+elbow	| noise:1  things:1  tootles:1  
+elder	| island:2  temperature:1  roads:1  
+elegance	| diction:1  test:1  breeding:1  
+element	| hand:1  surprise:1  difficulties:1  
+emerge	| head:1  ruff:1  echo:1  
+enchantments	| bed:2  arms:1  michael:1  
+end	| daughter:2  chief:2  course:2  
+enemies	| custom:1  smile:1  hook:1  
+enemy	| feelings:1  ledge:1  reach:1  
+engineer	| michael:1  [:1  ]:1  
+england	| footer:2  sweater:1  examination:1  
+enigma	| elation:1  heart:1  dark:1  
+entrance	| hourglass:1  figure:1  moment:1  
+entrances	| home:1  ground:1  vain:1  
+envy	| ah:1  
+erect	| face:1  drum:1  sprang:1  
+essay	| words:1  holidays:1  mother:1  
+essence	| smee:2  whir:1  none:1  
+estate	| wendy:2  man:1  brothers:1  
+eton	| form:3  smee:1  bo'sun:1  
+evening	| fire:3  peter:3  lagoon:2  
+evening-dress	| nobody:1  course:1  lady:1  
+evenings	| water:1  summer:1  tears:1  
+event	| instance:1  week:1  game:1  
+everything	| wendy:3  smee:3  corkscrew:2  
+evidence	| belief:1  
+examination	| things:1  grammar:1  minds:1  
+example	| i:2  michael:1  medicine:1  
+exception	| nibs:1  deal:1  look:1  
+excess	| course:1  pity:1  
+excitement	| john:1  squeak:1  fulsom:1  
+exciting	| adventure:1  tinker:1  leaf:1  
+exclaim	| basketful:1  heel:1  spinsters:1  
+execution	| dreadful:1  shot:1  lot:1  
+existence	| riddle:1  liquid:1  poison:1  
+expenses	| darling:2  edge:1  days:1  
+experience	| i:1  night:1  peter:1  
+expert	| course:1  fashion:1  [:1  
+expression	| [:2  ]:2  wife:1  
+expressions	| birds:2  way:2  peter:1  
+extent	| wings:1  occasion:1  craft:1  
+exultation	| hook:3  master:1  avast:1  
+eye	| wendy:2  peter:2  pistol:1  
+eyes	| john:6  mother:5  hook:5  
+face	| hook:6  peter:6  smile:5  
+fact	| gorging:1  time:1  
+fain	| moment:1  [:1  ]:1  
+faint	| course:1  note:1  word:1  
+fainter	| moment:1  light:1  
+fairies	| time:8  lot:3  thing:3  
+fairness	| pirates:1  violence:1  string:1  
+fairy	| peter:7  dust:3  ]:3  
+faith	| mother:2  love:2  john:2  
+fall	| snow:2  arms:2  peter:2  
+faltering	| peter:1  course:1  i:1  
+family	| wendy:3  friends:2  peter:2  
+fancy	| church:1  objects:1  companions:1  
+fangs	| hook:1  eyes:1  dogs:1  
+farewell	| james:1  figure:1  
+farther	| rock:1  starkey:1  twins:1  
+fascinating	| spring:1  cleaning:1  house:1  
+fashion	| course:1  [:1  ]:1  
+fate	| braves:1  tie:1  children:1  
+father	| mother:11  wendy:9  john:7  
+fathers	| map:2  day:2  murders:1  
+fault	| bed:1  lagoon:1  mouth:1  
+favour	| grander:1  person:1  ship:1  
+favourite	| pirates:1  tone:1  one:1  
+fear	| peter:3  mother:3  lagoon:2  
+fears	| cosy:1  fire:1  
+feathers	| pirate:2  kidd:1  craft:1  
+feeling	| peter:3  wendy:3  hook:2  
+feelings	| peter:4  parents:2  bird:1  
+feet	| wendy:7  bed:3  water:2  
+feint	| peter:1  swordsman:1  defence:1  
+fellow	| johnny:1  hook:1  wendy:1  
+fellows	| contempt:1  room:1  
+feminine	| nature:1  touch:1  pirates:1  
+fender	| chairs:1  [:1  fireplace:1  
+fibre	| fireplace:1  part:1  room:1  
+fields	| boys:1  wall-game:1  deck:1  
+fiend	| peter:2  names:1  nana:1  
+fifteen	| night:1  shore:1  come-down:1  
+fight	| peter:3  redskins:3  redskin:2  
+figure	| wendy:3  girl:2  peter:2  
+figures	| help:2  round:2  street:2  
+file	| hand:1  dagger:1  
+film	| dream:1  rent:1  michael:1  
+finger	| dagger:2  shillings:2  pound:1  
+fire	| evening:3  chief:2  toil:2  
+fireplace	| chairs:1  wendy:1  fender:1  
+firewood	| adventures:1  blood:1  things:1  
+firmament	| mr.:2  way:1  night-lights:1  
+firmness	| mrs.:1  room:1  want:1  
+fish	| doodle-doo:1  starkey:1  wait:1  
+fishes	| iron:1  water:1  claw:1  
+fishing	| floor:2  stools:1  room:1  
+fist	| light:2  room:1  palm:1  
+fists	| air:1  leaves:1  peter:1  
+fitting	| care:1  wendy:1  condition:1  
+flag	| ho:2  yo:2  woods:1  
+flail	| sweep:1  danger:1  boy:1  
+flamingo	| john:4  lagoons:1  lagoon:1  
+flamingoes	| john:2  lagoons:1  instance:1  
+flannels	| peter:1  
+flash	| steel:1  water:1  cry:1  
+flight	| right:1  peter:1  baldness:1  
+flinch	| tootles:1  
+flint	| barbecue:3  jukes:2  skylights:2  
+floating	| air:1  back:1  
+floor	| peter:6  window:4  room:4  
+floors	| love:1  
+flower	| form:2  ran:1  reflection:1  
+flowers	| compassion:1  performer:1  harpsichord:1  
+flung	| peter:3  hand:2  air:1  
+flush	| adults:1  head:1  reproof:1  
+flushing	| twin:1  handful:1  
+flutter	| heart:1  thrill:1  
+fo'c'sle	| rest:1  tars:1  sailors:1  
+foe	| home:2  steel:1  light:1  
+foggerty	| turley:1  
+followers	| elation:1  heart:1  dark:1  
+fond	| father:2  wendy:2  reason:1  
+food	| ]:4  [:4  children:3  
+foot	| tick:3  tree:2  ground:2  
+football	| footer:2  rain:1  [:1  
+footer	| ]:2  rain:2  [:2  
+footmarks	| direction:1  silence:1  fall:1  
+forbidding	| marooners:1  rock:1  waters:1  
+force	| sound:1  board:1  advance:1  
+forces	| day:1  horrid:1  air:1  
+ford	| lapping:1  sound:1  silence:1  
+forecastle	| moment:1  quartermaster:1  deck:1  
+forefinger	| hook:2  night:1  suit:1  
+forehead	| bandage:1  time:1  round:1  
+forest	| hook:2  singing:1  house:1  
+forget-me-not	| blue:1  melancholy:1  hook:1  
+forgetful	| peter:2  dread:1  arrangements:1  
+forgot	| child:1  mother:1  
+form	| ]:5  [:5  hook:4  
+formation	| time:1  phalanx:1  dense:1  
+forms	| lay:1  floor:1  difference:1  
+forth	| cabin:2  children:1  reluctance:1  
+foul	| pirate:2  light:1  kidd:1  
+fount	| i:1  tears:1  summer:1  
+fours	| panther:1  van:1  man:1  
+frankness	| boy:1  
+fray	| boy:1  sprang:1  hook:1  
+friday	| night:2  side:2  coinage:1  
+friend	| sun:1  slaves:1  fear:1  
+friends	| wendy:3  michael:3  row:2  
+friendship	| fairy:1  disguise:1  victim:1  
+frock	| peter:1  berries:1  neverland:1  
+front	| trees:2  hook:2  danger:1  
+fruit-blossom	| queen:1  mab:1  season:1  
+fulsom	| school:2  john:1  squeak:1  
+fun	| boy:2  way:2  darling:1  
+funny	| thing:1  peter:1  
+fury	| i:2  drawer:2  nursery:1  
+fuss	| noodles:1  peter:1  blubbering:1  
+future	| wendy:2  effort:2  peep:2  
+gab	| stow:1  hook:1  spokesmen:1  
+gaiety	| romps:1  darling:1  things:1  
+gaily	| birds:2  way:2  peter:1  
+gait	| deed:1  days:1  tabernacle:1  
+gall	| brimstone:2  ]:1  face:1  
+game	| peter:3  time:2  ]:2  
+games	| time:3  lagoon:2  interest:1  
+gao	| advance:1  pieces:1  ears:1  
+gap	| dream:1  rent:1  film:1  
+garden	| day:1  years:1  flower:1  
+gardens	| kensington:2  time:2  darlings:1  
+garments	| peter:2  hook:1  tree:1  
+gay	| heartless:3  dance:2  i:2  
+gaze	| dim:1  objects:1  home:1  
+genius	| cough:1  difficulties:1  patience:1  
+gentle	| hat:1  breeze:1  omen:1  
+gentleman	| i:3  name:2  skylights:2  
+gentlemen	| mr.:2  cab:1  way:1  
+gently	| end:1  bed:1  foot:1  
+geo	| wolf:1  mason:1  others:1  
+george	| mrs.:6  darling:5  i:3  
+germs	| day:1  rhubarb:1  remedies:1  
+gesture	| hook:2  peter:2  mutiny:1  
+gibbering	| cabin:1  pit:1  cecco:1  
+gift	| humour:1  dearest:1  
+gills	| hook:2  starkey:1  moment:1  
+girl	| boy:5  way:3  i:3  
+girls	| ones:3  others:2  trees:2  
+girth	| tree:2  drinking:1  water:1  
+glad	| consent:1  hers:1  cypher:1  
+glade	| tut:3  yonder:1  
+gladness	| peter:1  joy:1  sinking:1  
+glamour	| boys:1  pirate:1  ship:1  
+glance	| jane:1  
+glass	| thing:2  wendy:1  i:1  
+gleam	| legs:1  lagoon:1  
+glee	| wendy:1  peter:1  appearances:1  
+glimpse	| shows:1  sky:1  window:1  
+gloom	| island:2  pause:2  pirates:2  
+gnomes	| island:2  temperature:1  roads:1  
+goals	| end:1  rainbow:1  keepers:1  
+goddess	| ]:2  [:2  piccaninnies:1  
+gold	| jukes:2  skylights:2  bill:2  
+good	| health:1  
+good-bye	| mr.:1  something:1  hostess:1  
+good-byes	| tom-tom:1  music:1  miscreants:1  
+good-will	| birds:2  way:2  peter:1  
+goods	| hand:2  trees:1  manner:1  
+gorging	| fact:1  time:1  
+governor	| advance:1  pieces:1  ears:1  
+grammar	| question:1  examination:1  paper:1  
+grander	| favour:1  character:1  
+grasp	| struggle:1  pirate:1  cutlass:1  
+grass	| night:1  savage:1  blade:1  
+gratitude	| tea:2  john:1  michael:1  
+great-coats	| darling:1  shame:1  michael:1  
+greed	| meal:1  tea:1  recriminations:1  
+greedy	| dim:1  objects:1  home:1  
+green	| i:1  house:1  roof:1  
+greetings	| boys:1  silence:1  
+grey	| accounts:1  mind:1  ground:1  
+grip	| arm:1  surprise:1  feeling:1  
+grizzly	| adventures:1  sort:1  john:1  
+groan	| wendy:1  hands:1  john:1  
+ground	| home:11  trees:5  ]:3  
+group	| fire:2  hook:1  bay:1  
+grown-up	| margaret:2  daughter:1  jane:1  
+grown-ups	| way:2  wrath:1  fun:1  
+grudging	| things:1  halves:1  remark:1  
+guadjo-mo	| names:1  one:1  mothers:1  
+guard	| chimney:1  smoking:1  peter:1  
+guessing	| game:1  
+guidance	| tiffs:1  man:1  brain:1  
+guinea	| shillings:2  time:1  pound:1  
+gulch	| tootles:2  redskins:2  redskin:2  
+gulls	| hoard:1  pearls:1  mood:1  
+gulp	| waters:1  feet:1  time:1  
+gulps	| john:1  reputation:1  hook:1  
+gun	| ah:1  peter:1  lady:1  
+gurgles	| one:1  peter:1  laugh:1  
+gust	| pandemonium:1  passing:1  wind:1  
+ha'pence	| drawers:2  floor:1  contents:1  
+habit	| i:1  evening:1  cup:1  
+hair	| wendy:3  ]:2  score:2  
+hairs	| romp:1  appearance:1  nana:1  
+half	| miscreants:1  time:1  reeking:1  
+halfpenny-worth	| sense:1  time:1  adventures:1  
+hallo	| i:1  michael:1  saw:1  
+halo	| round:1  circle:1  
+halves	| things:1  grudging:1  remark:1  
+hammer	| bobs:2  tongs:2  odds:1  
+hand	| peter:8  i:6  darling:5  
+handful	| nibs:1  flushing:1  middle:1  
+handkerchief	| mark:1  wendy:1  darling:1  
+hands	| hook:4  skylights:2  time:2  
+hanger	| sun:1  noon:1  
+hangings	| day:2  map:2  pudding:1  
+hankering	| pirate:1  hearty:1  john:1  
+harpsichord	| compassion:1  performer:1  breast:1  
+haste	| tidings:1  
+hat	| john:6  bird:4  moment:3  
+hatchet	| ]:2  [:2  woods:1  
+hatred	| tink:1  woman:1  
+hats	| row:1  front:1  pirate:1  
+haughty	| laugh:1  middle:1  
+hauteur	| [:1  ]:1  pride:1  
+head	| wendy:7  time:4  hand:4  
+headmaster	| boys:1  wall-game:1  deck:1  
+heads	| look:3  peter:2  sort:1  
+health	| wendy:1  state:1  house:1  
+hear	| peter:1  hook:1  
+heard	| hook:2  peter:2  minds:1  
+heart	| i:3  face:2  peter:2  
+hearties	| peter:1  wheel:1  scum:1  
+heartless	| i:4  gay:3  room:1  
+hearts	| mother:1  peter:1  mothers:1  
+hearty	| pirate:1  john:1  hankering:1  
+heaven	| wendy:1  moon:1  peter:1  
+heavens	| remorse:2  michael:1  darkness:1  
+heel	| fire:2  spinsters:1  hole:1  
+heels	| foot:1  ground:1  hook:1  
+height	| peter:1  captain:1  breadth:1  
+help	| boy:2  girl:2  arm:2  
+helpless	| time:1  fire:1  woman:1  
+henchmen	| pan:1  moment:1  starkey:1  
+her	| times:1  things:1  john:1  
+heroes	| ]:2  sinking:1  [:1  
+heroine	| mother:1  wendy:1  window:1  
+hers	| i:1  house:1  glad:1  
+herself	| knees:2  foot:1  pieces:1  
+hesitate	| ]:1  poles:1  
+hey	| ho:2  yo:2  flag:1  
+hide	| light:1  command:1  quick:1  
+hiding	| tinker:1  nuisance:1  way:1  
+hiding-place	| right:1  john:1  children:1  
+hill	| ropes:1  morass:1  barrels:1  
+hillock	| stream:1  base:1  hook:1  
+hither	| pirates:1  onset:1  thither:1  
+hitherto	| affright:1  island:1  tink:1  
+ho	| yo:13  song:7  plank:6  
+hoard	| children:1  mood:1  showers:1  
+hold	| wendy:2  prisoners:1  front:1  
+holder	| dress:1  stuarts:1  attire:1  
+hole	| stockings:2  work-basket:1  trees:1  
+holes	| air:1  ear:1  eyes:1  
+holidays	| fear:1  something:1  dreamt:1  
+hollow	| night:1  attack:1  redskins:1  
+home	| ground:11  wendy:11  trees:4  
+homes	| children:1  gardens:1  time:1  
+honey	| night:1  see:1  bees:1  
+honour	| piccaninnies:1  part:1  night:1  
+hook	| peter:13  time:12  man:11  
+hook's	| sight:1  sword:1  hand:1  
+hoop	| la:2  rate:1  house:1  
+hope	| bell:2  tinker:2  i:1  
+horrid	| nothing:1  air:1  progress:1  
+horror	| wendy:1  eye:1  cruel:1  
+hostess	| letters:2  mr.:1  wendy:1  
+hour	| island:3  ignorance:2  yo:2  
+hourglass	| figure:1  entrance:1  peter:1  
+hours	| defiance:1  circle:1  peter:1  
+house	| wendy:7  mr.:4  peter:4  
+houses	| floor:2  [:1  stories:1  
+housewife	| man:1  foot:1  [:1  
+hull	| pirate:2  light:1  kidd:1  
+hullo	| peter:3  wondering:1  man:1  
+human	| animals:1  water:1  land:1  
+humans	| birds:2  way:2  peter:1  
+humblest	| melancholy:1  countenance:1  nature:1  
+humour	| bowl:2  moments:2  nana:2  
+hundreds	| sea:2  shudder:2  passing:1  
+hung	| sound:1  board:1  advance:1  
+hungry	| way:2  birds:2  peter:1  
+hunting-ground	| chief:2  daughter:2  race:1  
+hurons	| strung:1  boys:1  pirates:1  
+hurrah	| i:1  story:1  
+hurry	| pocket:1  parents:1  thankless:1  
+husband	| drawer:1  opportunity:1  afterwards:1  
+hut	| island:2  temperature:1  roads:1  
+i	| peter:26  wendy:25  mother:24  
+i'm	| captain:1  
+idea	| peter:2  wendy:2  way:2  
+ignorance	| hour:2  boys:2  minutes:1  
+ii	| dress:1  stuarts:1  attire:1  
+iii	| class:5  school:1  boys:1  
+ill	| peter:1  swordsman:1  defence:1  
+imagination	| hat:1  motives:1  man:1  
+imitation	| sound:1  vent:1  call:1  
+immune	| seas:1  cannibal:1  scarce:1  
+impression	| cynicism:1  stair:1  
+impressions	| peter:1  one:1  
+impudent	| bed:1  eavesdropping:1  bedroom:1  
+inch	| peter:3  skylights:2  bill:2  
+inches	| inch:1  woman:1  bed-clothes:1  
+incident	| rage:1  pieces:1  leapt:1  
+indication	| hand:1  
+indifference	| i:1  
+indignity	| bed:2  custom:1  sit:1  
+inferior	| thrust:2  brilliancy:1  weight:1  
+ink	| splash:1  
+inmate	| describe:3  laugh:2  mother:2  
+inmates	| liza:1  nana:1  nursery:1  
+innermost	| box:1  kiss:1  
+inquiring	| jane:1  look:1  moment:1  
+insect	| hook:1  iron:1  twitch:1  
+insecurity	| crocodile:2  arm:1  persistance:1  
+instance	| john:2  opportunity:1  lagoon:1  
+instant	| vain:2  need:1  yard:1  
+instructions	| wendy:2  neverland:1  peter:1  
+instrument	| beat:1  
+insubordination	| aghast:1  peter:1  whereupon:1  
+intensity	| gentlemen:1  communings:1  ruff:1  
+intention	| face:1  boys:1  plank:1  
+interest	| peter:2  time:1  adventures:1  
+interlopers	| way:1  hand:1  idea:1  
+interviews	| crowds:1  class:1  society:1  
+intimation	| chill:1  paleface:1  night:1  
+intuitions	| nature:1  touch:1  pirates:1  
+invention	| wendy:2  bed:2  sit:1  
+invitation	| i:1  mrs.:1  darling:1  
+invitations	| mrs.:1  place:1  
+iron	| claw:6  hand:5  hook:4  
+island	| peter:7  time:6  pirates:4  
+iv	| class:5  boys:1  v.:1  
+james	| midst:1  ay:1  answer:1  
+jane	| i:7  mother:4  bed:4  
+jas	| midst:1  shore:1  redskins:1  
+jay	| i:1  peter:1  mighty:1  
+jealousy	| wendy:1  
+jenkins	| school:2  week:2  island:2  
+jet	| children:1  sound:1  singing:1  
+john	| michael:38  wendy:24  peter:12  
+johnny	| smee:3  corkscrew:3  wound:1  
+join	| michael:1  
+joining	| table:1  slates:1  boys:1  
+joke	| george:1  boys:1  medicine:1  
+jonah	| aboard:1  
+jones	| yo:4  ho:4  plank:3  
+jot	| oo:1  feelings:1  parents:1  
+journey	| nibs:1  boys:1  michael:1  
+jowl	| redskins:1  place:1  lions:1  
+joy	| peter:3  children:2  sap:1  
+judge	| wig:1  iron:1  door:1  
+jug	| tinker:2  tink:2  moment:2  
+juices	| boy:1  clad:1  trees:1  
+jukes	| bill:7  hook:4  skylights:4  
+jump	| handful:1  nibs:1  middle:1  
+june	| captain:1  chart:1  ship:1  
+justice	| baldness:1  courage:1  matter:1  
+keepers	| goals:1  rainbow:1  end:1  
+kennel	| john:4  children:3  man:3  
+kensington	| gardens:2  children:1  homes:1  
+kettles	| tinker:2  peter:1  fairy:1  
+key	| cabin:1  manacles:1  weapons:1  
+kick	| peter:2  reply:1  john:1  
+kidd	| pirate:2  light:1  ship:1  
+kind	| peter:3  wendy:3  house:2  
+kinds	| shillings:2  pound:1  guinea:1  
+king	| subjects:1  john:1  hook:1  
+kings	| drawers:2  floor:1  contents:1  
+kiss	| wendy:2  peter:2  face:2  
+kisses	| moment:1  ignorance:1  
+kitchen	| liza:1  christmas:1  suspicions:1  
+kite	| peter:3  michael:2  tail:2  
+kitten	| knees:1  contents:1  sight:1  
+knee	| john:2  mouth:1  trousers:1  
+knees	| pieces:3  plank:3  yo:2  
+knew	| something:1  mr.:1  nursery:1  
+knife	| hallo:1  i:1  michael:1  
+knives	| lapping:1  tomahawks:1  branches:1  
+knock	| answer:2  lady:2  boys:1  
+knocker	| door:1  tootles:1  sole:1  
+knocking	| door:1  ]:1  aperture:1  
+knocks	| children:1  novelty:1  ones:1  
+knot	| turn:1  parcels:1  [:1  
+knowing	| foot:1  advance:1  iron:1  
+knowledge	| clock:1  mark:1  crocodile:1  
+knuckles	| up:1  back-yard:1  father:1  
+la	| hoop:2  house:2  drawing-room:2  
+lace	| skylights:1  lurches:1  pirates:1  
+lad	| dogs:1  part:1  tight:1  
+ladies	| mother:3  i:1  peter:1  
+lads	| i:2  order:1  crew:1  
+lady	| wendy:8  peter:5  home:3  
+lagoon	| peter:11  time:6  course:6  
+lagoons	| john:2  lagoon:1  michael:1  
+lairs	| island:2  temperature:1  roads:1  
+lamp	| light:1  obstacle:1  shone:1  
+land	| hand:1  water:1  darling:1  
+language	| tink:3  course:2  ones:2  
+lantern	| hook:2  recesses:1  water:1  
+lap	| bed:2  night-lights:1  wendy:1  
+lapping	| silence:1  ford:1  sound:1  
+lateness	| hour:2  bed:1  bandages:1  
+laugh	| describe:6  mother:4  father:2  
+laughter	| home:1  peter:1  wendy:1  
+laws	| savage:1  redskin:1  race:1  
+lay	| forms:1  lap:1  captives:1  
+lead	| course:1  tree:1  
+leader	| wendy:1  peter:1  street:1  
+leaf	| bell:2  tinker:2  square:1  
+leap	| floor:1  joy:1  air:1  
+leapt	| arms:1  incident:1  rage:1  
+leaves	| window:4  wendy:3  foot:2  
+ledge	| enemy:1  eye:1  sight:1  
+left-hander	| iron:1  hook:1  hand:1  
+leg	| john:2  flamingo:1  part:1  
+legs	| way:1  peter:1  breath:1  
+lesson	| propriety:1  school:1  need:1  
+let	| john:2  michael:2  darling:1  
+letters	| mean:2  hostess:2  name:2  
+level	| tree:1  centre:1  morning:1  
+lewd	| blood:1  cloak:1  slip:1  
+life	| peter:6  way:4  hook:4  
+light	| peter:4  i:3  room:3  
+lightning	| time:2  words:1  deeds:1  
+likeness	| tail:1  captain:1  hook:1  
+liking	| parties:1  george:1  
+lily	| ay:1  lagoon:1  sound:1  
+limbs	| group:1  fire:1  ship:1  
+line	| hook:2  song:2  ho:2  
+lines	| island:2  card:1  date:1  
+lion	| man:2  justice:1  peter:1  
+lions	| place:1  shadows:1  beast:1  
+lip	| triumph:1  finger:1  dagger:1  
+lips	| hook:3  time:2  lay:1  
+liquid	| poison:1  existence:1  
+listen	| story:2  wendy:2  michael:1  
+listening	| advance:1  pieces:1  ears:1  
+lives	| lady:1  adventures:1  john:1  
+living	| remorse:2  man:2  movement:1  
+liza	| nana:2  servant:1  nursery:1  
+load	| work-basket:1  stockings:1  knee:1  
+loan	| wendy:1  bracelet:1  arm:1  
+longer	| refuse:1  dog:1  nursery:1  
+look	| peter:5  wendy:3  ceiling:3  
+look-out	| front:1  none:1  danger:1  
+looks	| exultation:1  boys:1  pirates:1  
+lord	| lady:1  title:1  
+lore	| something:1  lily:1  tinker:1  
+loss	| plank:3  yo:2  ho:2  
+lot	| fairies:3  fairy:2  time:2  
+lots	| peter:1  i:1  wendy:1  
+love	| mother:5  faith:2  fear:1  
+loving	| tink:1  reply:1  shoulder:1  
+luck	| joy:1  sap:1  branches:1  
+luff	| voice:1  smee:1  rock:1  
+lunge	| peter:1  swordsman:1  defence:1  
+lurches	| skylights:1  lace:1  sound:1  
+lust	| peter:1  battle:1  sword:1  
+mab	| queen:1  legs:1  fruit-blossom:1  
+machine	| smee:2  ship:1  sewing:1  
+madam	| days:2  week:1  unhappiness:1  
+magazine	| powder:2  fight:1  shell:1  
+magicians	| ribbons:1  conjurers:1  capture:1  
+maid	| midget:1  skirt:1  cap:1  
+mainland	| bell:2  moment:2  time:2  
+make-believe	| island:2  dinners:1  mountains:1  
+male	| john:2  pomp:1  birth:1  
+man	| hook:11  peter:5  boy:5  
+man-eaters	| redskins:1  place:1  lions:1  
+manacles	| cabin:1  key:1  weapons:1  
+manhood	| body:1  blankets:1  cunning:1  
+manner	| hand:2  body:2  air:2  
+manners	| peter:1  days:1  customs:1  
+mantelpiece	| room:1  way:1  neverland:1  
+map	| day:4  mind:3  doctors:2  
+maps	| map:2  birds:1  doctors:1  
+margaret	| peter:3  daughter:3  cleaning:2  
+margery	| mirror:1  dealers:1  carpet:1  
+mark	| neverland:1  trees:1  ]:1  
+marks	| floor:1  candle:1  foot:1  
+marooners	| rock:4  way:2  tails:2  
+marooners'	| stories:1  rock:1  captains:1  
+marriage	| church:1  banns:1  announcement:1  
+marvel	| peoples:1  senses:1  island:1  
+mason	| mullins:1  alf:1  wolf:1  
+massacre	| part:1  fight:1  ours:1  
+mast	| stave:1  cloak:1  shirt:1  
+master	| party:2  missus:2  home:2  
+masters	| scouts:1  artifice:1  utterance:1  
+mastery	| thing:1  tie:1  man:1  
+match	| dogs:1  man:1  
+mate	| nibs:1  john:1  
+maths	| pirate:1  hearty:1  john:1  
+matter	| dear:2  children:2  man:1  
+matters	| form:1  kennel:1  
+mauve	| ones:3  tops:1  nests:1  
+mea	| culpa:2  
+meal	| children:3  [:2  hour:2  
+meals	| rule:1  complain:1  matter:1  
+mean	| letters:2  wendy:1  i:1  
+meaning	| eggs:1  heart:1  public:1  
+means	| peter:1  boys:1  pan:1  
+meantime	| boys:2  arms:2  stone:1  
+measles	| shillings:2  pound:1  guinea:1  
+measures	| tree:2  clothes:2  peter:1  
+medicine	| nana:9  i:7  bowl:5  
+meeting	| spirit:1  house:1  
+melancholy	| hook:2  humblest:1  boys:1  
+memory	| john:2  faith:1  kennel:1  
+men	| ground:2  hook:2  summit:1  
+menacing	| hook:1  gentlemen:1  gesture:1  
+mercy	| peter:2  hook:1  sufficient:1  
+mermaid	| water:2  children:2  side:2  
+mermaids	| lagoon:5  peter:3  tails:2  
+merry	| voice:1  bed:1  room:1  
+message	| i:1  mothers:1  sons:1  
+method	| pirate:1  opponents:1  hook:1  
+methods	| tootles:2  redskin:2  redskins:2  
+miasma	| pirates:1  games:1  drinking:1  
+michael	| john:38  wendy:21  i:10  
+middle	| round:2  sides:1  street:1  
+midget	| skirt:1  maid:1  cap:1  
+midst	| dark:1  mouse:1  setting:1  
+mighty	| jay:1  peter:1  venture:1  
+mile	| ship:2  watch:1  boast:1  
+miles	| way:3  birds:2  hungry:1  
+milk	| bowl:5  nana:5  medicine:4  
+mind	| map:3  peter:2  ]:2  
+minds	| things:3  peter:3  children:2  
+mine	| peter:2  ours:1  pirates:1  
+minutes	| deal:2  scoundrels:2  curtains:2  
+mirror	| dealers:1  chest:1  drawers:1  
+mischief	| night:2  tink:2  tool:2  
+miscreants	| course:1  game:1  chance:1  
+mishap	| peter:1  shore:1  water:1  
+missile	| pirates:1  boys:1  cunning:1  
+missus	| home:2  party:2  master:2  
+missy	| none:1  
+mist	| pirates:1  games:1  drinking:1  
+mistake	| course:1  mrs.:1  dog:1  
+mistress	| touchiness:1  trifles:1  nana:1  
+mistresses	| children:1  gardens:1  homes:1  
+moan	| captain:1  
+mocassins	| foot:1  ground:1  heels:1  
+mocking	| wendy:2  mouth:2  mind:2  
+moidores	| jukes:2  skylights:2  bill:2  
+moira	| angela:2  darling:1  satisfaction:1  
+mole	| brushwood:1  closes:1  sand:1  
+moles	| sense:1  door:1  
+moment	| peter:13  hook:6  wendy:5  
+moments	| humour:2  water:1  mermaids:1  
+mood	| children:1  hoard:1  pearls:1  
+moon	| peter:2  wendy:2  lagoon:2  
+moonlight	| lagoon:2  peter:1  wailing:1  
+moons	| mother:6  window:6  bed:3  
+morass	| ropes:1  hill:1  barrels:1  
+morning	| home:2  chapter:2  right:2  
+mortals	| lagoon:2  peter:1  moonlight:1  
+mortgage	| father:2  cents:1  stairs:1  
+moss	| joy:1  sap:1  luck:1  
+mossy	| i:1  house:1  walls:1  
+mother	| i:24  wendy:15  father:11  
+mother's	| mouth:1  thimbles:1  
+mothers	| children:3  i:2  wendy:2  
+motionless	| hand:1  ear:1  
+motives	| hat:1  imagination:1  man:1  
+mountains	| island:2  roar:1  echoes:1  
+mourning	| thought:1  half:1  time:1  
+mouse	| side:1  pirates:1  hook:1  
+mouth	| peter:5  pirate:4  wendy:3  
+mouths	| peter:4  birds:2  way:2  
+movement	| man:2  tree:1  sound:1  
+movements	| time:2  words:1  deeds:1  
+mr.	| darling:17  way:6  nana:6  
+mrs.	| darling:26  wendy:11  i:6  
+mud	| face:1  dress:1  
+mug	| mummy:2  
+mullins	| echoed:1  boy:1  sprang:1  
+mummy	| mug:2  i:1  daddy:1  
+mumps	| shillings:2  pound:1  guinea:1  
+murders	| day:2  map:2  pudding:1  
+murmur	| i:2  michael:1  age:1  
+murphy	| jukes:2  skylights:2  bill:2  
+muscle	| appearance:1  moment:1  foe:1  
+mushroom	| enemies:1  voice:1  solidity:1  
+mushrooms	| floor:2  stools:1  room:1  
+music	| wendy:4  home:2  head:1  
+mutiny	| hook:2  gentlemen:1  gesture:1  
+mutter	| john:4  michael:1  eyes:1  
+mystery	| mind:1  problem:1  smee:1  
+nail	| michael:1  place:1  hook:1  
+name	| peter:3  pan:2  darling:2  
+names	| one:2  corkscrew:2  smee:2  
+nana	| medicine:9  mr.:6  nursery:5  
+narrator	| story:1  
+nature	| michael:2  man:1  room:1  
+naught	| i:2  child:2  pound:2  
+naughtiness	| morning:1  passions:1  prettier:1  
+nearer	| bird:1  i:1  
+neck	| i:9  office:6  bed-post:6  
+necklace	| wendy:1  george:1  
+need	| gills:1  secret:1  man:1  
+needle	| wendy:1  place:1  lagoon:1  
+needle-work	| day:2  map:2  pudding:1  
+neighbourhood	| custom:1  enemies:1  boys:1  
+neighbours	| mr.:2  man:2  nurse:1  
+nerves	| hook:1  iron:1  twitch:1  
+nest	| smee:1  bird:1  past:1  
+nests	| ones:3  trees:1  mauve:1  
+neverland	| peter:7  time:6  island:4  
+neverlands	| friends:2  deal:1  course:1  
+newcomer	| swords:1  man:1  boys:1  
+newfoundland	| amount:1  nana:1  milk:1  
+news	| boys:2  mother:1  plan:1  
+nibs	| wendy:5  tootles:3  peter:2  
+nice	| time:1  something:1  
+night	| peter:7  bed:6  children:5  
+night-lights	| peter:4  children:3  darling:3  
+night-nursery	| change:1  kennel:1  
+nightgown	| hullo:1  wendy:1  chiefly:1  
+nighties	| children:1  night:1  time:1  
+nights	| fairies:2  night:2  days:1  
+nighty	| wendy:1  crowing:1  ecstasy:1  
+nobler	| feeling:1  wendy:1  
+nobody	| course:1  lady:1  evening-dress:1  
+noise	| twigs:1  board:1  recriminations:1  
+non-conformist	| jukes:2  skylights:2  bill:2  
+none	| girls:2  smee:2  pirate:1  
+noodler	| jukes:2  skylights:2  bill:2  
+noodles	| peter:1  blubbering:1  fuss:1  
+noon	| hanger:1  sun:1  
+nose	| island:2  wings:1  temperature:1  
+note	| course:1  strident:1  bluff:1  
+nothing	| peter:6  i:5  eyes:4  
+noticing	| time:2  chapter:1  hook:1  
+notion	| lads:1  crew:1  
+nought	| prettiest:1  heard:1  belay:1  
+novelty	| children:1  knocks:1  ones:1  
+nuisance	| questions:1  surprise:1  hiding:1  
+number	| course:2  darling:2  questions:1  
+numbers	| island:1  mermaids:1  days:1  
+nurse	| dog:4  children:4  jane:3  
+nursemaids	| children:1  gardens:1  homes:1  
+nurseries	| clapping:1  mothers:1  earth:1  
+nursery	| nana:5  peter:4  mr.:4  
+nurses	| room:1  basement:1  fulsom:1  
+nuts	| peter:2  wendy:1  boys:1  
+o	| ho:2  yo:2  flag:1  
+oars	| sound:1  heart:1  mouth:1  
+oath	| peter:2  hook:2  time:2  
+obedience	| thing:1  
+objects	| church:1  spires:1  gaze:1  
+obligation	| hat:1  knee:1  tinker:1  
+obliging	| smee:2  whir:1  none:1  
+observe	| beds:1  house:1  window:1  
+obstacle	| light:1  lamp:1  shone:1  
+occasion	| children:2  john:2  wendy:2  
+occasions	| thing:1  tie:1  contest:1  
+occupants	| venture:1  way:1  evening:1  
+occurrence	| adventures:1  time:1  peter:1  
+odds	| hook:1  fish:1  cry:1  
+offence	| jukes:2  skylights:2  bill:2  
+offensiveness	| mouth:1  drooping:1  personification:1  
+offer	| peter:1  politeness:1  mouth:1  
+office	| i:10  neck:6  child:4  
+offing	| island:2  temperature:1  roads:1  
+oil	| tomahawks:1  knives:1  bodies:1  
+omen	| hat:1  gentle:1  breeze:1  
+one	| peter:9  i:5  mother:3  
+ones	| trees:4  mauve:3  tops:3  
+onset	| thrust:2  brilliancy:1  survivor:1  
+onslaught	| ones:1  dawn:1  revolvers:1  
+oo	| mermaids:1  parents:1  none:1  
+opening	| door:1  knocking:1  see:1  
+opinion	| peter:2  man:2  something:1  
+opponent	| boys:1  peter:1  gesture:1  
+opponents	| method:1  
+opportunity	| drawer:1  husband:1  week:1  
+order	| lads:1  i:1  wickedness:1  
+orders	| peter:2  tree:2  bird:2  
+orgy	| time:1  fairies:1  way:1  
+ornaments	| advance:1  pieces:1  ears:1  
+others	| pirate:4  peter:4  hook:3  
+ours	| george:2  part:1  peter:1  
+ourselves	| babies:2  song:1  peter:1  
+out	| room:1  
+overboard	| girl:1  hook:1  figure:1  
+owing	| tiffs:1  rollicking:1  time:1  
+pace	| ease:1  hook:1  iron:1  
+pack	| boys:1  night:1  ease:1  
+pain	| peter:3  boy:2  time:1  
+pains	| sake:1  prize:1  knowledge:1  
+paint	| tomahawks:1  knives:1  bodies:1  
+pairs	| man:2  defensive:1  quarry:1  
+paleface	| chill:1  time:1  hours:1  
+palm	| things:1  fist:1  hand:1  
+pampas	| asleep:1  peter:1  
+pan	| peter:11  hook:3  i:2  
+pandemonium	| gust:1  wind:1  fate:1  
+panic	| children:1  peter:1  
+panic-stricken	| thought:1  boys:1  
+panther	| position:1  van:1  tiger:1  
+paper	| piece:4  peter:2  way:2  
+papers	| things:1  ones:1  duty:1  
+papooses	| night:2  time:1  neverland:1  
+parcel	| pirates:1  violence:1  string:1  
+parcels	| turn:1  [:1  string:1  
+pardon	| love:1  drowsy:1  john:1  
+parents	| john:2  time:2  feelings:2  
+part	| way:3  peter:3  jane:2  
+parties	| liking:1  george:1  passes:1  
+parting	| sorry-to-lose-you:1  peter:1  
+partners	| dance:2  gay:1  fight:1  
+parts	| ay:2  map:2  mind:1  
+party	| mother:4  describe:3  laugh:2  
+pass	| anything:1  
+passage	| up:1  back-yard:1  father:1  
+passes	| crocodile:1  boys:1  procession:1  
+passing	| sea:2  shudder:2  peter:2  
+passion	| i:1  mrs.:1  everything:1  
+passionate	| breast:1  show:1  life:1  
+passions	| morning:1  naughtiness:1  bottom:1  
+past	| smee:1  bird:1  peter:1  
+patches	| roar:1  beasts:1  prey:1  
+path	| daughter:2  boys:2  peter:2  
+patience	| genius:1  cough:1  thing:1  
+pause	| things:2  island:2  track:2  
+pavement	| tape:1  window:1  drop:1  
+paw	| nana:1  eyes:1  mistress:1  
+paws	| moment:1  way:1  communication:1  
+peace	| day:1  pipe:1  tit-bits:1  
+pearl	| body:1  blankets:1  cunning:1  
+pearls	| hoard:1  gulls:1  mood:1  
+peculiarities	| brush:1  affair:1  redskins:1  
+peep	| future:2  wendy:1  effort:1  
+peeping	| dream:1  rent:1  film:1  
+peeps	| future:2  wendy:1  effort:1  
+penalty	| fifteen:1  night:1  shore:1  
+pencil	| way:2  piece:1  suggestions:1  
+people	| peter:3  i:2  [:1  
+peoples	| marvel:1  senses:1  island:1  
+perambulators	| children:2  gardens:1  homes:1  
+performer	| compassion:1  harpsichord:1  breast:1  
+period	| dress:1  name:1  ii:1  
+periwinkle	| dark:1  thoughts:1  eyes:1  
+perplexed	| dozen:1  told:1  soundings:1  
+perplexing	| travels:1  things:1  minds:1  
+persistance	| crocodile:2  arm:1  hook:1  
+person	| ]:4  one:3  peter:3  
+personification	| mouth:1  drooping:1  arm:1  
+persons	| street:1  stars:1  
+perspiration	| claw:1  countenance:1  iron:1  
+pertinacity	| crocodile:2  arm:1  persistance:1  
+pet	| pan:1  
+peter	| wendy:35  i:26  course:21  
+phalanx	| time:1  formation:1  dense:1  
+piano	| nursery:1  day-nursery:1  window:1  
+piccaninnies	| ]:2  [:2  woods:1  
+pickle	| person:2  pickles-predicaments:1  ]:1  
+pickles-predicaments	| person:2  curly:1  peter:1  
+pictures	| mrs.:1  darling:1  babies:1  
+piece	| paper:4  way:2  peter:2  
+pieces	| knees:3  moidores:2  time:2  
+pig	| porthole:1  glass:1  finger:1  
+pillow	| mother:1  tootles:1  love:1  
+pillows	| dance:2  gay:1  fight:1  
+pinafore	| visits:1  mrs.:1  friends:1  
+pinch	| moment:1  something:1  circle:1  
+pink	| wendy:1  sash:1  
+pinnacle	| course:1  form:1  hook:1  
+pipe	| day:1  peace:1  tit-bits:1  
+pipes	| peter:2  attempt:1  foot:1  
+pirate	| ship:7  others:4  mouth:4  
+pirates	| redskins:10  boys:10  hook:8  
+pistol	| pirates:1  eye:1  starkey:1  
+pit	| cabin:1  cecco:1  gibbering:1  
+pity	| breast:1  nana:1  pirate:1  
+place	| peter:3  bird:2  wendy:2  
+places	| things:2  children:1  mother:1  
+plan	| captain:1  news:1  
+plank	| yo:6  ho:6  boys:5  
+play	| thrust:2  children:1  story:1  
+playing	| boys:1  wall-game:1  fields:1  
+plea	| procedure:1  ignorance:1  
+pleasant	| fire:2  toil:1  ones:1  
+please	| sir:2  peter:2  boys:1  
+pleasure	| mrs.:1  time:1  children:1  
+pluck	| john:1  
+pluperfect	| peter:1  
+pocket	| peter:2  room:1  night-lights:1  
+pockets	| clothes:1  none:1  
+point	| bird:2  hat:1  michael:1  
+poison	| liquid:1  existence:1  
+poker	| chimney:1  walls:1  
+poles	| hesitate:1  ]:1  
+policy	| exultation:1  ]:1  fear:1  
+politeness	| father:1  week:1  others:1  
+pomp	| john:2  birth:1  male:1  
+pond	| day:2  map:2  pudding:1  
+pooh-pooh	| mr.:1  darling:1  
+pool	| colours:4  eyes:4  mermaids:2  
+pop	| form:3  answer:1  bo'sun:1  
+portals	| creaking:1  tap-tap-tap:1  night:1  
+porthole	| glass:1  pig:1  finger:1  
+portion	| occasion:1  draught:1  peter:1  
+position	| city:1  captain:1  brave:1  
+possession	| hook:1  rings:1  person:1  
+possibility	| fond:1  variety:1  sport:1  
+posts	| day:1  peter:1  blankets:1  
+pot	| cooking:2  i:2  watching:2  
+pots	| tinker:2  peter:1  bell:1  
+pound	| i:5  child:4  shillings:4  
+powder	| magazine:2  fight:1  shell:1  
+power	| sleeper:1  
+powerless	| form:2  hook:1  [:1  
+practice	| days:1  buckets:1  well:1  
+prams	| girls:2  none:1  others:1  
+prepare	| youth:1  hook:1  doom:1  
+presence	| wendy:1  tragedy:1  savage:1  
+present	| peter:1  person:1  one:1  
+presentiment	| dissolution:1  [:1  ]:1  
+prettier	| morning:1  naughtiness:1  passions:1  
+prettiest	| policy:1  hook:1  exultation:1  
+pretty	| kennel:1  george:1  evening:1  
+prey	| patches:1  sea:1  certainty:1  
+pride	| i:3  mother:1  tie:1  
+prince	| story:1  lady:1  glass:1  
+princes	| island:2  temperature:1  roads:1  
+princess	| rear:1  place:1  right:1  
+prison	| advance:1  pieces:1  ears:1  
+prisoners	| plank:3  ho:2  yo:2  
+prize	| sake:1  pains:1  knowledge:1  
+problem	| form:2  mind:1  vitals:1  
+procedure	| plea:1  ignorance:1  
+procession	| shadows:1  lions:1  man-eaters:1  
+profound	| blue:1  melancholy:1  hook:1  
+progeny	| people:1  figure:1  wendy:1  
+progress	| nothing:1  horrid:1  forces:1  
+promise	| john:1  smee:1  arrangement:1  
+prone	| pirates:1  games:1  drinking:1  
+proof	| chapter:1  man:1  children:1  
+propriety	| lesson:1  line:1  children:1  
+proud	| codfish:1  hook:1  spirit:1  
+prowl	| bed:1  house:1  home:1  
+public	| meaning:1  heart:1  
+pudding	| day:2  map:2  fathers:1  
+puddings	| liza:1  christmas:1  suspicions:1  
+pull	| ribbons:1  conjurers:1  capture:1  
+punishment	| remorse:2  star:1  heavens:1  
+puppies	| doubt:1  feeling:1  times:1  
+purpose	| thing:1  belief:1  tide:1  
+pursuers	| tongues:1  baying:1  
+pursuit	| moments:1  boys:1  elation:1  
+qualities	| clever:1  cleverness:1  conceit:1  
+quality	| bottle:2  water:1  face:1  
+quarry	| man:2  defensive:1  boys:1  
+quartermaster	| moment:1  forecastle:1  deck:1  
+queen	| mab:1  season:1  legs:1  
+queer	| smee:1  
+quest	| wendy:1  cloudy:1  tree:1  
+question	| i:2  time:2  answer:2  
+questions	| mother:4  taller:2  ]:2  
+quick	| light:1  command:1  hide:1  
+quiet	| nana:1  way:1  nursery:1  
+quietude	| board:1  ship:1  night:1  
+quietus	| iron:1  air:1  hook:1  
+quiver	| voice:2  mushroom:1  hook:1  
+race	| time:2  traditions:2  end:2  
+raconteur	| something:1  repute:1  air:1  
+rage	| michael:2  hook:2  men:1  
+rain	| days:2  footer:2  john:1  
+rainbow	| bubbles:1  hands:1  colours:1  
+raisin	| liza:1  christmas:1  suspicions:1  
+rakish-looking	| island:2  temperature:1  roads:1  
+ran	| day:1  years:1  garden:1  
+rang	| voice:1  boat:1  act:1  
+rapidity	| peter:1  swordsman:1  defence:1  
+rapture	| ship:1  mother:1  joy:1  
+rat	| wish:1  nibs:1  
+rate	| la:2  father:2  island:1  
+rats	| wendy:1  nibs:1  
+rays	| tiptoed:1  waters:1  mermaids:1  
+reach	| catch:1  fury:1  cards:1  
+reader	| time:1  watch:1  
+reappearance	| scream:1  crow:1  peter:1  
+rear	| place:1  princess:1  right:1  
+reason	| i:1  fond:1  
+recess	| wall:1  apartment:1  bell:1  
+recesses	| miscreants:1  lantern:1  sea:1  
+recognition	| eyes:1  time:1  day:1  
+recriminations	| board:1  tea:1  meal:1  
+redskin	| redskins:4  tootles:4  way:3  
+redskins	| pirates:10  peter:7  boys:7  
+reefs	| island:2  temperature:1  roads:1  
+reeking	| miscreants:1  lantern:1  sea:1  
+reflection	| form:4  powerless:1  problem:1  
+refuse	| dog:1  nursery:1  hour:1  
+regret	| wendy:1  
+regrets	| mermaids:1  terms:1  time:1  
+rejoicings	| peter:1  home:1  kite:1  
+relief	| sigh:2  nursery:1  time:1  
+religion	| day:2  map:2  pudding:1  
+reluctance	| cabin:1  sounds:1  forth:1  
+remark	| venture:1  mighty:1  i:1  
+remedies	| day:1  rhubarb:1  leaf:1  
+remnant	| panther:1  tribe:1  tomahawk:1  
+remorse	| kennel:3  heavens:2  man:2  
+rent	| dream:1  shrieks:1  film:1  
+reply	| peter:3  john:2  tink:2  
+reproof	| adults:1  head:1  faint:1  
+reputation	| wonder:2  gulps:1  hook:1  
+repute	| something:1  air:1  i:1  
+request	| answer:1  air:1  crash:1  
+resemblance	| friends:2  night:1  dress:1  
+residence	| look:2  nibs:1  deal:1  
+resistance	| work:1  moment:1  vain:1  
+respect	| course:1  end:1  stocks:1  
+respond	| tootles:1  
+responsibility	| tootles:1  buffer:1  person:1  
+rest	| house:2  curtain:1  land:1  
+result	| chapter:1  brush:1  [:1  
+results	| hands:1  hook:1  slip:1  
+retort	| barbecue:1  house:1  flint:1  
+return	| home:2  peter:1  chapter:1  
+revelation	| way:1  morning:1  
+revolvers	| onslaught:1  hands:1  ones:1  
+rhubarb	| day:1  remedies:1  contempt:1  
+rib	| corkscrew:1  smee:1  tootles:1  
+ribbons	| mouths:1  sentence:1  conjurers:1  
+ribs	| iron:1  quietus:1  peter:1  
+riddle	| existence:1  
+right	| peter:4  till:2  morning:2  
+right-hand	| east:1  corner:1  mocking:1  
+ring	| others:1  
+ringleader	| captain:1  mercy:1  starkey:1  
+rings	| doors:1  bells:1  caves:1  
+rio	| thrust:2  brilliancy:1  peter:1  
+ripping	| john:1  
+river	| pirate:2  island:2  craft:2  
+roads	| island:2  temperature:1  lines:1  
+roar	| island:2  echoes:1  prey:1  
+robin	| dealers:1  chest:1  round:1  
+rock	| peter:5  marooners:4  wendy:3  
+roger	| pirate:2  creek:1  captain:1  
+roll	| pirate:1  trousers:1  clothes:1  
+rollicking	| tiffs:1  owing:1  time:1  
+romp	| mr.:2  appearance:1  nana:1  
+romps	| gaiety:1  darling:1  kiss:1  
+roof	| i:3  walls:2  house:2  
+room	| floor:4  wendy:3  bed:3  
+root	| mushroom:1  size:1  solidity:1  
+rope	| ho:2  yo:2  woods:1  
+ropes	| hill:1  barrels:1  way:1  
+roses	| babies:3  door:2  peter:2  
+round	| night:3  figures:2  ship:2  
+rounder	| make-believe:1  meal:1  
+row	| michael:3  friends:2  john:2  
+rude	| ease:1  snatches:1  song:1  
+ruff	| gentlemen:1  emerge:1  communings:1  
+rule	| meal:1  boys:1  captain:1  
+rules	| course:2  lagoon:2  peter:2  
+running	| home:1  return:1  chapter:1  
+rush	| girl:1  hook:1  figure:1  
+ruthless	| hand:2  trees:1  manner:1  
+sail	| stave:1  mast:1  shirt:1  
+sailors	| words:1  note:1  captains:1  
+sake	| wonder:2  prize:1  reputation:1  
+sand	| wendy:1  mole:1  look:1  
+sands	| john:1  boat:1  wendy:1  
+sank	| spirits:1  way:1  
+sap	| joy:1  luck:1  branches:1  
+sarcasm	| braggart:1  ]:1  course:1  
+sardines	| bed:1  tin:1  day:1  
+sash	| wendy:1  pink:1  
+satisfaction	| moira:1  angela:1  band:1  
+savage	| place:1  lions:1  man-eaters:1  
+savages	| island:2  day:1  temperature:1  
+saving	| michael:1  way:1  sea:1  
+saw	| hallo:1  i:1  light:1  
+scales	| something:1  star:1  mermaid:1  
+scalp	| smee:2  corkscrew:2  johnny:1  
+scarce	| cannibal:1  seas:1  immune:1  
+scatter	| look:1  
+scene	| home:2  ground:1  feeling:1  
+scheme	| mother:2  smee:1  boys:1  
+school	| class:5  things:2  skylights:2  
+score	| hair:2  tails:1  lagoon:1  
+scoundrel	| i:1  mother:1  john:1  
+scoundrels	| minutes:2  curtains:1  ten:1  
+scourie	| chas:1  
+scouts	| ground:1  afterwards:1  carnage:1  
+scream	| reappearance:1  pirate:1  peter:1  
+screech	| sound:3  ho:2  pirates:2  
+screens	| wendy:1  beds:1  drawing-room:1  
+scum	| peter:1  wheel:1  duty:1  
+scurvy	| hoard:1  pearls:1  gulls:1  
+sea	| shudder:4  peter:3  air:2  
+sea-cook	| man:2  hook:1  
+seals	| pirates:1  mouth:1  doom:1  
+search	| cabin:1  key:1  manacles:1  
+seas	| immune:1  name:1  cannibal:1  
+season	| queen:1  mab:1  legs:1  
+seat	| smee:1  
+second	| chapter:1  flight:1  till:1  
+secret	| tree:2  tying:2  air:1  
+security	| amends:1  way:1  wind:1  
+see	| wendy:2  arm:2  ]:2  
+seeds	| mark:1  wendy:1  trees:1  
+seigneur	| manner:1  storyteller:1  ]:1  
+self	| liza:1  nana:1  nursery:1  
+sense	| time:2  bowl:2  milk:2  
+senses	| marvel:1  peoples:1  despair:1  
+sentence	| ribbons:1  conjurers:1  capture:1  
+servant	| liza:1  
+servants	| mrs.:1  somehow:1  breadwinner:1  
+service	| i:1  wendy:1  hook:1  
+set	| people:1  age:1  thing:1  
+setting	| midst:1  dark:1  james:1  
+seventeen	| i:2  child:2  office:2  
+sewing	| fire:1  lay:1  nursery:1  
+shadow	| i:3  peter:3  nana:3  
+shadows	| fear:2  creepy:2  witting:2  
+shaft	| foot:1  breath:1  
+shame	| michael:1  john:1  head:1  
+shameless	| peter:1  jane:1  air:1  
+shape	| eyes:3  mother:2  pool:2  
+share	| george:2  sight:1  adventure:1  
+shares	| stocks:3  ones:1  man:1  
+shark	| leader:1  finger:1  peter:1  
+sheet	| invention:1  mother:1  tent:1  
+shell	| powder:1  magazine:1  hands:1  
+shield	| boy:1  sprang:1  hook:1  
+shillings	| i:4  pound:4  guinea:2  
+shining	| wendy:1  
+ship	| pirate:7  hook:5  boys:4  
+ship's	| pirates:1  cookson:1  sign:1  
+shirt	| stave:1  mast:1  sail:1  
+shirts	| something:1  michael:1  birthday:1  
+shiver	| michael:2  sea:1  person:1  
+shivers	| sun:1  water:1  
+shock	| boy:1  mrs.:1  
+shoe	| tootles:1  sole:1  knocker:1  
+shoes	| yards:1  fall:1  snow:1  
+shone	| light:1  obstacle:1  lamp:1  
+shook	| hand:1  exultation:1  shame:1  
+shoots	| skylights:1  lurches:1  pirates:1  
+shore	| night:2  lagoon:2  hat:1  
+shores	| children:1  coracles:1  play:1  
+shorter	| peter:1  swordsman:1  defence:1  
+shot	| companion:1  wendy:1  upwards:1  
+shoulder	| bell:1  wings:1  front:1  
+shoulders	| way:1  children:1  chorus:1  
+shout	| ship:1  mother:1  joy:1  
+show	| passionate:1  form:1  breast:1  
+showers	| hoard:1  pearls:1  gulls:1  
+shows	| glimpse:1  stars:1  window:1  
+shrieks	| air:1  clash:1  rent:1  
+shudder	| sea:4  peter:3  hundreds:2  
+shuddering	| tick:3  hook:1  air:1  
+side	| hook:5  pirates:4  peter:4  
+sides	| arms:2  peter:2  figures:1  
+sigh	| story:2  relief:2  time:1  
+sight	| thing:3  peter:3  rock:2  
+sign	| pirates:1  tom-tom:1  redskins:1  
+signal	| rule:1  carrion:1  round:1  
+silence	| wendy:3  children:3  mrs.:2  
+silences	| chill:1  paleface:1  intimation:1  
+silent	| foot:1  tree:1  chamber:1  
+sillies	| ones:3  tops:1  mauve:1  
+silliness	| moment:1  dignity:1  
+simpler	| family:1  peter:1  pan:1  
+singing	| children:1  jet:1  moments:1  
+sinister	| test:1  man:1  breeding:1  
+sink	| occasion:1  draught:1  peter:1  
+sinking	| peter:2  ]:2  heroes:1  
+sir	| ay:4  peter:2  please:2  
+sit	| john:4  chair:4  wendy:3  
+site	| i:1  stave:1  rock:1  
+sitting	| evening:1  fire:1  
+situation	| flash:1  
+size	| boys:2  solidity:1  wendy:1  
+skeleton	| clad:1  girl:1  tinker:1  
+skins	| peter:1  bears:1  
+skirt	| midget:1  maid:1  cap:1  
+skull	| ho:2  yo:2  flag:1  
+sky	| thanks:1  eggs:1  glimpse:1  
+skylights	| jukes:4  bill:4  hook:3  
+slain	| pirates:1  voice:1  cabin:1  
+slate	| table:1  joining:1  slates:1  
+slates	| boys:1  table:1  joining:1  
+slaves	| purpose:1  beast:1  sound:1  
+sleep	| night:2  peter:2  land:1  
+sleeper	| rage:1  pieces:1  leapt:1  
+sleeping	| adventure:1  exciting:1  bell:1  
+sleeve	| face:1  damming:1  trickle:1  
+slept	| ground:1  step:1  
+sleuth-hound	| mystery:1  mind:1  problem:1  
+slings	| day:1  arms:1  bandages:1  
+slip	| peter:1  time:1  hook:1  
+slipper	| story:1  prince:1  lady:1  
+slouch	| ]:1  ship:1  board:1  
+smee	| hook:7  captain:6  corkscrew:6  
+smile	| face:5  peter:3  wendy:3  
+smiles	| woman:1  
+smoke	| i:2  chimney:1  john:1  
+smoking	| chimney:1  peter:1  light:1  
+snake	| space:1  dagger:1  moonlight:1  
+snapping	| night:1  
+snatches	| ease:1  rude:1  cards:1  
+sneer	| tink:1  laws:1  nature:1  
+snow	| fall:2  yards:1  nature:1  
+so-and-so	| rule:1  complain:1  meals:1  
+soap	| bathroom:1  fellow:1  wendy:1  
+sobs	| bed:1  peter:1  jane:1  
+soccer	| footer:2  rain:1  ]:1  
+society	| crowds:1  interviews:1  cab:1  
+socks	| shoes:1  waistcoat:1  tie:1  
+sole	| tootles:1  shoe:1  knocker:1  
+solemn	| john:1  moment:1  hat:1  
+solidity	| mushroom:1  size:1  mainland:1  
+sombre	| man:2  tabernacle:1  performer:1  
+somebody	| i:1  cradle:1  
+somehow	| way:1  servants:1  
+someone	| hair:1  
+something	| peter:6  woman:2  hand:2  
+son	| peter:1  feelings:1  wendy:1  
+song	| yo:7  ho:7  dogs:2  
+sons	| father:1  i:1  mothers:1  
+sooner	| crocodile:1  ticking:1  
+sorry-to-lose-you	| parting:1  peter:1  
+sort	| way:3  thing:2  words:1  
+sought	| dim:1  objects:1  home:1  
+sound	| hook:4  crocodile:4  wendy:3  
+soundings	| dozen:1  perplexed:1  told:1  
+sounds	| rhubarb:1  remedies:1  forth:1  
+space	| island:2  peoples:1  silence:1  
+spark	| hook:1  eye:1  
+sparrow	| peter:1  man:1  cage:1  
+speak	| ones:2  star:1  language:1  
+specimen	| book:1  island:1  dictionary:1  
+spectacles	| fifteen:1  captain:1  redskins:1  
+spectators	| actors:1  
+speech	| hook:1  desire:1  time:1  
+speed	| [:1  breath:1  
+spinsters	| dear:3  i:2  hole:1  
+spires	| companions:1  delights:1  objects:1  
+spirit	| way:2  course:2  peter:2  
+spirits	| sank:1  way:1  
+splash	| screech:1  sound:1  silence:1  
+splashes	| island:2  temperature:1  roads:1  
+spokesmen	| stow:1  gab:1  hook:1  
+spoon	| michael:3  medicine:1  nana:1  
+sport	| fond:1  variety:1  moment:1  
+spot	| hook:3  ground:1  way:1  
+spots	| blue:1  melancholy:1  hook:1  
+spout	| tape:1  beef:1  pavement:1  
+sprang	| boy:2  wendy:1  boys:1  
+spring	| cleaning:7  peter:5  time:4  
+sprout	| mrs.:1  darling:1  babies:1  
+square	| bell:1  skeleton:1  leaf:1  
+squaw	| opinion:1  redskins:1  
+squeak	| excitement:1  john:1  fulsom:1  
+squeeze	| pool:2  colours:2  eyes:2  
+stab	| peter:1  kick:1  
+stair	| impression:1  
+stairs	| father:2  cents:1  jane:1  
+star	| something:2  ones:2  darling:1  
+starkey	| smee:5  hook:5  water:3  
+stars	| window:3  peter:3  moment:3  
+start	| john:1  peter:1  time:1  
+starve	| neck:3  i:3  office:2  
+state	| wendy:1  health:1  house:1  
+station	| years:1  lady:1  nibs:1  
+status	| talk:1  
+stave	| i:1  site:1  tarpaulin:1  
+stays	| i:1  awe:1  something:1  
+stead	| peter:1  swordsman:1  defence:1  
+steel	| head:1  flash:1  water:1  
+step	| hook:2  wendy:2  obstacle:1  
+stick	| bundle:1  cries:1  tree:1  
+sticks	| adventures:1  blood:1  opportunity:1  
+stiffly	| thimble:1  way:1  
+stockade	| men:1  meantime:1  water:1  
+stocking	| weeks:1  evening:1  ground:1  
+stockings	| hole:2  heel:1  spinsters:1  
+stocks	| shares:3  course:1  thing:1  
+stomach	| ]:2  heroes:1  sinking:1  
+stone	| arms:2  boys:2  mouth:1  
+stood	| mother:1  peter:1  jane:1  
+stool	| nothing:1  thing:1  sight:1  
+stools	| floor:2  lives:1  [:1  
+stories	| peter:6  i:5  time:3  
+story	| wendy:8  bed:6  time:5  
+storyteller	| something:1  seigneur:1  manner:1  
+stout	| pirates:1  shoulders:1  children:1  
+stow	| gab:1  hook:1  spokesmen:1  
+strange	| children:1  sewing:1  machine:1  
+stranger	| floor:1  
+strategy	| element:1  surprise:1  hand:1  
+stream	| men:1  meantime:1  water:1  
+street	| nursery:2  round:2  figures:2  
+streets	| neck:3  i:3  office:2  
+strength	| man:2  character:1  attention:1  
+strewn	| pirate:2  light:1  kidd:1  
+strident	| bluff:1  note:1  sailors:1  
+strides	| door:1  
+strike	| peter:2  course:1  
+string	| [:1  ]:1  violence:1  
+strings	| fireplace:1  part:1  fibre:1  
+struck	| see:1  crocodile:1  way:1  
+struggle	| cutlass:1  pirate:1  grasp:1  
+strung	| boys:1  pirates:1  tribe:1  
+stuarts	| dress:1  attire:1  period:1  
+stuffed	| food:2  [:2  ]:2  
+stumps	| home:1  return:1  chapter:1  
+subject	| i:3  peter:2  hand:1  
+subjects	| king:1  john:1  
+substance	| elation:1  heart:1  dark:1  
+success	| bird:2  head:2  elation:1  
+succulence	| pirates:1  boys:1  cunning:1  
+sufficient	| hook:1  mercy:1  peter:1  
+sugar	| ship:1  hook:1  teeth:1  
+suggestions	| way:2  piece:1  pencil:1  
+suit	| hook:3  peter:2  tree:2  
+summer	| children:1  time:1  days:1  
+summit	| men:1  meantime:1  water:1  
+sun	| arrows:1  noon:1  children:1  
+sunday	| pirates:1  john:1  hat:1  
+suns	| time:2  parents:1  michael:1  
+supper	| john:1  boys:1  michael:1  
+support	| peter:1  hook:1  i:1  
+surf	| sound:1  singing:1  moment:1  
+surface	| dogs:1  lad:1  time:1  
+surprise	| grip:1  nuisance:1  hook:1  
+survivor	| pirates:1  onset:1  hither:1  
+suspense	| chill:1  paleface:1  intimation:1  
+suspicion	| vent:1  cry:1  admiration:1  
+suspicions	| i:2  wendy:2  venture:1  
+sward	| [:1  ]:1  turf:1  
+sweater	| footer:2  rain:1  [:1  
+sweep	| flail:1  sword:1  twain:1  
+sweet	| knees:1  contents:1  sight:1  
+sweetheart	| time:1  wendy:1  
+sword	| peter:4  boy:2  trees:1  
+swords	| boys:2  lantern:1  sea:1  
+swordsman	| peter:1  rapidity:1  feint:1  
+syllables	| peter:2  words:1  michael:1  
+sympathy	| matter:1  eye:1  children:1  
+syrup	| beauty:1  hook:1  children:1  
+tabernacle	| deed:1  days:1  barbecue:1  
+table	| room:2  chairs:1  boys:1  
+table-cloth	| day:1  chairs:1  minutes:1  
+tactics	| extent:1  hook:1  occasion:1  
+tail	| peter:3  michael:2  kite:2  
+tailors	| island:2  temperature:1  card:1  
+tails	| yo:4  ho:4  plank:3  
+tale	| home:1  water:1  head:1  
+talk	| day:1  rhubarb:1  remedies:1  
+talks	| times:1  adventures:1  ones:1  
+taller	| mother:2  questions:2  father:1  
+tap-tap	| form:1  school:1  anything:1  
+tap-tap-tap	| creaking:1  portals:1  night:1  
+tape	| window:1  pavement:1  drop:1  
+tarpaulin	| stave:1  hat:1  watertight:1  
+tars	| rest:1  sailors:1  mast:1  
+taste	| peter:1  pan:1  brute:1  
+tea	| wendy:3  john:2  adventure:2  
+tear	| look:2  darling:1  dogs:1  
+tears	| wendy:4  home:2  window:2  
+teeth	| hook:3  thing:1  boy:1  
+tell	| wendy:2  arm:2  lady:1  
+tell-tale	| tink:1  corner:1  
+temper	| liza:1  christmas:1  suspicions:1  
+temperature	| island:2  roads:1  lines:1  
+tempers	| bird:1  
+ten	| minutes:2  scoundrels:1  curtains:1  
+tenement	| sound:1  ground:1  darkness:1  
+tense	| way:1  questions:1  
+tent	| invention:1  mother:1  head:1  
+terms	| mermaids:1  regrets:1  time:1  
+terror	| moment:1  hook:1  blanch:1  
+test	| diction:1  breeding:1  demeanour:1  
+thank	| house:1  chimney:1  hat:1  
+thankless	| earth:1  parents:1  way:1  
+thanks	| bird:1  sky:1  eggs:1  
+thee	| dark:1  peter:1  sinister:1  
+thimble	| stiffly:1  
+thimbles	| mouth:1  mother's:1  
+thing	| peter:12  i:6  ]:5  
+things	| peter:6  time:5  island:4  
+think	| beds:1  twin:1  oo:1  
+thinking	| course:1  action:1  things:1  
+thins	| boys:1  island:1  vary:1  
+thither	| pirates:1  onset:1  hither:1  
+thou	| pan:1  art:1  
+thought	| time:3  hook:3  mind:2  
+thoughts	| morning:1  naughtiness:1  peter:1  
+thousand	| baby:1  time:1  broke:1  
+threatening	| [:2  ]:2  dark:2  
+three-pence	| day:2  map:2  pudding:1  
+thrill	| heart:1  flutter:1  
+throat	| genius:1  cough:1  patience:1  
+thrust	| hook:2  brilliancy:2  weight:2  
+thud	| sound:1  knees:1  tootles:1  
+thumbs	| fairies:1  pirates:1  hour:1  
+thunder	| starkey:1  
+thursday	| week:1  darling:1  mrs.:1  
+thursdays	| wendy:1  screens:1  beds:1  
+tick	| hook:3  air:3  foot:3  
+tick-tick	| crocodile:1  
+ticking	| crocodile:1  sooner:1  
+tiddlywinks	| chandelier:1  look:1  thing:1  
+tide	| thing:1  peter:1  side:1  
+tidings	| haste:1  
+tie	| neck:3  i:3  thing:2  
+tiffs	| neverland:1  tink:1  island:1  
+tiger	| pirates:2  rock:1  remnant:1  
+tigers	| redskins:1  place:1  lions:1  
+tight	| dogs:1  lad:1  part:1  
+till	| shudder:2  cecco:2  sea:2  
+tilt	| days:1  manners:1  customs:1  
+time	| peter:18  hook:12  wendy:11  
+times	| neck:3  i:3  way:3  
+tin	| tinker:2  peter:1  room:1  
+tingle	| manner:1  time:1  eyes:1  
+tink	| peter:6  wendy:4  i:3  
+tinker	| bell:30  peter:5  fairy:3  
+tinkle	| bells:2  jug:1  shadow:1  
+tip-toe	| air:1  michael:1  wendy:1  
+tiptoe	| edge:1  hair:1  lagoon:1  
+tiptoed	| rays:1  waters:1  world:1  
+tires	| i:1  redskins:1  wood:1  
+tit-bits	| day:1  pipe:1  peace:1  
+title	| lady:1  lord:1  
+to-day	| redskins:2  tootles:2  redskin:2  
+to-night	| course:2  way:2  mother:2  
+toads	| one:1  child:1  
+tobacco	| home:1  return:1  chapter:1  
+toil	| fire:2  ones:1  peter:1  
+told	| dozen:1  perplexed:1  soundings:1  
+tom	| pirates:2  pirate:1  scream:1  
+tom-tom	| victory:2  ]:1  order:1  
+tomahawk	| panther:1  pirates:1  turley:1  
+tomahawks	| knives:1  bodies:1  paint:1  
+tone	| darling:2  occasion:2  washing:1  
+tongs	| bobs:2  hammer:2  odds:1  
+tongue	| john:1  father:1  
+tongues	| pursuers:1  baying:1  
+tons	| i:1  
+tool	| mischief:2  night:1  tink:1  
+tooth	| day:2  map:2  pudding:1  
+tootles	| i:6  boys:4  redskins:4  
+top	| hat:2  breaking:1  night:1  
+topping	| john:1  michael:1  
+tops	| ones:3  boys:1  nests:1  
+tornado	| i:2  mr.:2  
+torture	| chief:2  daughter:2  race:1  
+tortures	| break:1  day:1  savages:1  
+touch	| plank:3  ho:2  yo:2  
+touches	| peter:1  
+touchiness	| trifles:1  master:1  mistress:1  
+towel	| darling:1  shame:1  great-coats:1  
+toys	| years:1  wendy:1  box:1  
+traces	| dogs:1  way:1  dance:1  
+track	| pause:2  vanish:1  things:1  
+tradition	| weapons:1  war-cry:1  air:1  
+traditions	| race:2  formation:1  sort:1  
+tragedies	| peter:1  
+tragedy	| wendy:2  pipes:1  presence:1  
+trail	| pirates:2  eyes:2  redskins:2  
+train	| michael:1  [:1  ]:1  
+traits	| smee:1  
+translation	| wendy:1  
+travels	| children:1  things:1  perplexing:1  
+treasure	| nurse:1  george:1  i:1  
+tree	| peter:7  clothes:4  hook:4  
+trees	| boys:5  ground:5  night:4  
+tremour	| shudder:2  sea:2  passing:1  
+tribe	| pirates:2  chief:2  daughter:2  
+trick	| hoard:1  pearls:1  gulls:1  
+trickle	| pity:1  pirate:1  breast:1  
+trifle	| dream:1  drop:1  window:1  
+trifles	| touchiness:1  master:1  mistress:1  
+triumph	| fear:1  island:1  hand:1  
+trouble	| darling:1  shame:1  michael:1  
+trousers	| appearance:1  lip:1  nana:1  
+trunk	| room:2  centre:1  hole:1  
+trussing	| knees:1  ears:1  pirate:1  
+truth	| peter:2  i:2  bird:1  
+try	| wendy:2  michael:1  trees:1  
+tune	| wendy:4  home:2  window:1  
+tunes	| gay:1  trees:1  debonair:1  
+turf	| sward:1  [:1  ]:1  
+turley	| foggerty:1  panther:1  pirates:1  
+turn	| ]:2  [:2  bed:2  
+turns	| ]:2  [:2  woods:1  
+turtles	| wendy:1  look:1  eggs:1  
+tut	| yonder:3  glade:3  
+twain	| flail:1  sweep:1  danger:1  
+twentieth	| silence:1  time:1  wendy:1  
+twenty	| voice:1  i:1  boys:1  
+twigs	| noise:1  onslaught:1  hands:1  
+twin	| i:4  twins:2  tootles:2  
+twinge	| dear:1  remorse:1  [:1  
+twins	| peter:4  i:3  twin:2  
+twist	| future:2  wendy:1  effort:1  
+twitch	| hook:1  year:1  iron:1  
+tying	| air:2  others:2  secret:2  
+umbrella	| footer:2  soccer:1  john:1  
+unaware	| tragedy:1  peter:1  doubt:1  
+understand	| wendy:1  words:1  kind:1  
+understanding	| amazement:1  tom-tom:1  hook:1  
+understood	| peter:1  nursery:1  window:1  
+undone	| nothing:1  reputation:1  tribe:1  
+undressing	| rest:1  house:1  ]:1  
+unfairness	| peter:2  one:2  pain:1  
+unhappiness	| days:2  madam:1  week:1  
+up	| back-yard:1  passage:1  knuckles:1  
+upshot	| adventure:2  
+upstairs	| mr.:1  mrs.:1  
+upwards	| wendy:3  wind:1  peter:1  
+use	| peter:2  children:1  ]:1  
+uses	| smee:1  hair:1  i:1  
+usher	| jukes:2  skylights:2  bill:2  
+utterance	| scouts:1  masters:1  artifice:1  
+v.	| class:5  boys:1  school:1  
+vain	| place:2  yard:2  instant:2  
+van	| fours:1  panther:1  position:1  
+vanish	| pause:2  gloom:1  pirates:1  
+variety	| fond:1  sport:1  possibility:1  
+vary	| boys:1  island:1  course:1  
+veil	| mummy:1  scene:1  daddy:1  
+vent	| sound:1  imitation:1  call:1  
+venture	| i:4  peter:2  bird:2  
+verse	| sound:1  
+victim	| friendship:1  time:1  tree:1  
+victory	| redskins:3  tom-tom:2  tootles:2  
+villains	| course:1  pride:1  game:1  
+vindictiveness	| crocodile:2  arm:1  persistance:1  
+violence	| pirates:1  string:1  hook:1  
+visitor	| voice:1  
+visits	| mrs.:1  michael:1  nursery:1  
+vitals	| form:2  reflection:1  problem:1  
+voice	| hook:7  peter:6  boys:4  
+voices	| fear:1  silence:1  boylike:1  
+void	| sound:1  ground:1  world:1  
+wail	| round:1  wind:1  night:1  
+wailing	| lagoon:2  moon:1  time:1  
+waistcoat	| shoes:1  tie:1  socks:1  
+wait	| fish:1  doodle-doo:1  starkey:1  
+walk	| ]:1  ship:1  dress:1  
+walks	| adventures:1  grizzly:1  sort:1  
+wall	| room:2  boys:2  tin:1  
+wall-game	| boys:1  deck:1  mind:1  
+walls	| i:3  house:2  roof:2  
+walrus	| jukes:2  skylights:2  bill:2  
+want	| room:1  chocolate:1  mr.:1  
+war-cry	| tradition:1  weapons:1  air:1  
+war-path	| eyes:2  john:1  trail:1  
+wardrobe	| times:1  pocket:1  night:1  
+warfare	| laws:1  savage:1  whites:1  
+warriors	| pirates:2  manner:1  feet:1  
+wash-stand	| liza:1  
+washing	| darling:1  window:1  house:1  
+washstand	| mirror:1  dealers:1  chest:1  
+watch	| ship:2  home:1  wind:1  
+watching	| pot:2  cooking:1  i:1  
+water	| peter:6  hook:5  head:3  
+waters	| rock:1  nothing:1  starkey:1  
+watertight	| stave:1  hat:1  tarpaulin:1  
+waxy	| claw:1  countenance:1  iron:1  
+way	| peter:14  i:11  time:10  
+ways	| jukes:2  man:2  bill:2  
+weakness	| michael:2  nana:1  medicine:1  
+weapon	| instance:1  spectacles:1  
+weapons	| wendy:2  clang:2  arms:2  
+weather	| captain:1  chart:1  ship:1  
+wedding	| moment:1  tailors:1  night:1  
+week	| days:2  jenkins:2  mouth:2  
+week-end	| earth:1  thankless:1  parents:1  
+weeks	| stocking:1  ground:1  evening:1  
+weight	| thrust:2  brilliancy:1  onset:1  
+well	| days:1  practice:1  buckets:1  
+wendies	| wendy:1  birds:1  
+wendy	| peter:35  i:25  john:24  
+whatever	| course:1  nothing:1  mother:1  
+wheel	| peter:1  hearties:1  rio:1  
+whelp	| wendy:1  boat:1  john:1  
+whelps	| john:2  flamingo:1  i:1  
+whence	| boys:1  wendy:1  direction:1  
+whereupon	| insubordination:1  peter:1  aghast:1  
+while	| i:1  fairies:1  time:1  
+whim	| food:2  [:2  ]:2  
+whip	| master:1  home:1  party:1  
+whir	| smee:2  none:1  ship:1  
+whistle	| peter:1  face:1  surprise:1  
+whites	| laws:1  savage:1  warfare:1  
+whole	| beginning:1  fairies:1  
+whoop	| head:1  flash:1  water:1  
+wi	| matter:1  cecco:1  ay:1  
+wickedness	| amazement:1  tom-tom:1  hook:1  
+wife	| ]:2  [:2  ways:1  
+wig	| judge:1  door:1  iron:1  
+wigwam	| john:1  boat:1  manner:1  
+wiliness	| laws:1  savage:1  whites:1  
+wincing	| peter:1  flung:1  arm:1  
+wind	| ship:2  boast:1  round:1  
+window	| wendy:9  mother:8  peter:7  
+windows	| i:2  walls:1  roof:1  
+winds	| deed:1  days:1  tabernacle:1  
+wings	| face:1  tink:1  extent:1  
+wish	| i:2  cake:1  pirates:1  
+wishes	| boys:1  ship:1  others:1  
+wit	| chapter:1  scheme:1  children:1  
+witting	| shadows:2  creepy:1  fear:1  
+woe	| care:1  adventure:1  
+woke	| leaf:1  way:1  
+wolf	| john:3  friends:2  night:1  
+wolves	| boys:2  night:2  boy:1  
+woman	| way:3  peter:2  something:2  
+women	| children:1  baby:1  basket:1  
+wonder	| mr.:2  sake:2  reputation:2  
+wondering	| hullo:1  tink:1  boys:1  
+wood	| children:2  pirates:2  sound:2  
+woods	| ho:2  yo:2  ]:2  
+word	| peter:4  hook:2  wendy:2  
+words	| peter:5  time:4  course:3  
+work	| vain:1  girl:1  rock:1  
+work-basket	| load:1  stockings:1  knee:1  
+worker	| tinker:2  peter:1  fairy:1  
+world	| time:2  sound:2  children:2  
+worms	| floor:2  stools:1  room:1  
+wound	| corkscrew:2  smee:2  johnny:1  
+wrath	| everything:1  grown-ups:1  tree:1  
+wriggle	| night:1  savage:1  blade:1  
+yard	| children:2  vain:2  darling:1  
+yards	| fall:1  others:1  hook:1  
+yawn	| night-lights:1  awake:1  peter:1  
+year	| peter:5  spring:3  wendy:3  
+years	| wendy:4  mother:2  glamour:1  
+yell	| rage:1  michael:1  father:1  
+yesterday	| year:2  wendy:1  peter:1  
+yo	| ho:13  song:7  plank:6  
+yonder	| tut:3  foot:1  glade:1  
+yore	| mr.:1  expression:1  head:1  
+youngsters	| birds:1  shape:1  brim:1  
+yours	| ours:1  peter:1  mine:1  
+youth	| hook:1  prepare:1  doom:1  
+z.	| peter:2  words:1  syllables:1  
+zone	| flail:1  sweep:1  danger:1  
